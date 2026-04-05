@@ -33,35 +33,35 @@ The system achieved a **very high TAP-TEEPS validity score of 4.51** and high se
 ## 🖥️ System Screenshots
 
 ### Login Dashboard
-![Login Dashboard](docs/Login-Dashboard.jpg)
+![Login Dashboard](docs/Login%20Dashboard.jpg)
 
 ### User Dashboard
-![User Dashboard](docs/User-Dashboard.jpg)
+![User Dashboard](docs/User%20Dashboard.jpg)
 
 ### Admin Dashboard
-![Admin Dashboard](docs/Admin-Dashboard.jpg)
+![Admin Dashboard](docs/Admin%20Dashboard%20-%20Aqualitics.jpg)
 
 ### User Profile Dashboard
-![User Profile](docs/User-Profile-Dashboard.jpg)
+![User Profile Dashboard](docs/User%20Profile%20Dashboard.jpg)
 
 ### Water Quality Thresholds Management
-![Thresholds](docs/Water-Quality-Thresholds.jpg)
+![Water Quality Thresholds Management](docs/Water%20Quality%20Thresholds%20Management.jpg)
 
 ### Real-Time Data Fetching
-![Fetching Data](docs/Fetching-Data.jpg)
+![Fetching Data](docs/fetching%20of%20data%20in%20progress.jpg)
 
 ### Interval Time Data Fetching
-![Interval Fetching](docs/Interval-Fetching.jpg)
+![Interval Fetching](docs/Interval%20time%20fetching%20of%20data.jpg)
 
 ### AI Support Bot
-![Support Bot](docs/Support-Bot.jpg)
+![Aqualitics Support Bot](docs/Aqualitics%20support%20bot.jpg)
 
 ### User Manual (IoT)
-![User Manual](docs/User-Manual-IOT.jpg)
+![User Manual IOT](docs/User%20Manual%20IOT.jpg)
 
 ### System Documentation
-![Documentation 1](docs/Documentation-Process-1.jpg)
-![Documentation 2](docs/Documentation-Process-2.jpg)
+![Documentation Process 1](docs/Documentation%20(process).jpg)
+![Documentation Process 2](docs/Documentation%20(process%202).jpg)
 
 ---
 
