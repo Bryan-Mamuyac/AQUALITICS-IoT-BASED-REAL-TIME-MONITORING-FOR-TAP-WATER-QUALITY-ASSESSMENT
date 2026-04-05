@@ -33,35 +33,35 @@ The system achieved a **very high TAP-TEEPS validity score of 4.51** and high se
 ## 🖥️ System Screenshots
 
 ### Login Dashboard
-![Login Dashboard](docs/Login%20Dashboard.png)
+![Login Dashboard](docs/Login-Dashboard.jpg)
 
 ### User Dashboard
-![User Dashboard](docs/User%20Dashboard.png)
+![User Dashboard](docs/User-Dashboard.jpg)
 
 ### Admin Dashboard
-![Admin Dashboard](docs/Admin%20Dashboard%20-%20Aqualitics.png)
+![Admin Dashboard](docs/Admin-Dashboard.jpg)
 
 ### User Profile Dashboard
-![User Profile](docs/User%20Profile%20Dashboard.png)
+![User Profile](docs/User-Profile-Dashboard.jpg)
 
 ### Water Quality Thresholds Management
-![Thresholds](docs/Water%20Quality%20Thresholds%20Management.png)
+![Thresholds](docs/Water-Quality-Thresholds.jpg)
 
 ### Real-Time Data Fetching
-![Fetching Data](docs/fetching%20of%20data%20in%20progress.png)
+![Fetching Data](docs/Fetching-Data.jpg)
 
 ### Interval Time Data Fetching
-![Interval Fetching](docs/Interval%20time%20fetching%20of%20data.png)
+![Interval Fetching](docs/Interval-Fetching.jpg)
 
 ### AI Support Bot
-![Support Bot](docs/Aqualitics%20support%20bot.png)
+![Support Bot](docs/Support-Bot.jpg)
 
 ### User Manual (IoT)
-![User Manual](docs/User%20Manual%20IOT.png)
+![User Manual](docs/User-Manual-IOT.jpg)
 
 ### System Documentation
-![Documentation](docs/Documentation%20(process).png)
-![Documentation Process 2](docs/Documentation%20(process%202).png)
+![Documentation 1](docs/Documentation-Process-1.jpg)
+![Documentation 2](docs/Documentation-Process-2.jpg)
 
 ---
 
@@ -140,7 +140,7 @@ Aqualitics_Official/
 ├── vendor/                 # Composer dependencies
 ├── admin_dashboard.php     # Admin panel
 ├── dashboard.php           # User dashboard (real-time data visualization)
-├── index.php               # Login / Landing page (21 KB)
+├── index.php               # Login / Landing page
 ├── logout.php              # Session termination
 ├── profile.php             # User profile management
 ├── register.php            # User registration
@@ -179,8 +179,6 @@ Aqualitics_Official/
 ---
 
 ## 🧪 Evaluation Results
-
-The system was evaluated using two frameworks:
 
 ### TAP-TEEPS (Technology Assessment Protocol)
 | Criterion | Score | Interpretation |
@@ -239,13 +237,12 @@ The system was evaluated using two frameworks:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Bryan-Mamuyac/Aqualitics_Official.git
+   git clone https://github.com/Bryan-Mamuyac/AQUALITICS-IoT-BASED-REAL-TIME-MONITORING-FOR-TAP-WATER-QUALITY-ASSESSMENT.git
    ```
 
 2. **Move to XAMPP htdocs**
    ```bash
-   # Windows
-   move Aqualitics_Official C:\xampp\htdocs\Aqualitics_Official
+   move AQUALITICS-IoT-BASED-REAL-TIME-MONITORING-FOR-TAP-WATER-QUALITY-ASSESSMENT C:\xampp\htdocs\Aqualitics_Official
    ```
 
 3. **Import the database**
@@ -271,8 +268,11 @@ The system was evaluated using two frameworks:
 
 ### Arduino Setup
 1. Open Arduino IDE
-2. Load the firmware from the `arduino/` directory (if applicable)
-3. Install required libraries (Ethernet, OneWire, DallasTemperature, etc.)
+2. Load the firmware from the `arduino/` directory
+3. Install required libraries:
+   - `Ethernet`
+   - `OneWire`
+   - `DallasTemperature`
 4. Configure the server IP to match your local machine
 5. Upload to Arduino Uno R3
 
@@ -286,12 +286,15 @@ The system was deployed and tested on **Hostinger** for remote access, allowing 
 
 ## 📚 Research Context
 
-- **Research Type:** Descriptive + Applied
-- **Development Model:** Evolutionary Prototype Model
-- **Evaluation Tools:** TAP-TEEPS + System Usability Scale (SUS)
-- **Standards Referenced:** WHO Guidelines for Drinking-Water Quality, PNSDW 2017
-- **Aligned With:** UN SDG 6 — Clean Water and Sanitation
-- **Testing Site:** Metro San Fernando Water District, City of San Fernando, La Union
+| Detail | Info |
+|--------|------|
+| Research Type | Descriptive + Applied |
+| Development Model | Evolutionary Prototype Model |
+| Evaluation Tools | TAP-TEEPS + System Usability Scale (SUS) |
+| Standards Referenced | WHO Guidelines for Drinking-Water Quality, PNSDW 2017 |
+| Aligned With | UN SDG 6 — Clean Water and Sanitation |
+| Testing Site | Metro San Fernando Water District, City of San Fernando, La Union |
+| Academic Year | 2024–2025 to 2025–2026 |
 
 ---
 
