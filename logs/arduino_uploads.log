@@ -1,0 +1,1152 @@
+[2025-10-24 01:27:18] === NEW UPLOAD REQUEST ===
+[2025-10-24 01:27:18] Method: GET
+[2025-10-24 01:27:18] Remote IP: 120.29.89.127
+[2025-10-24 01:28:17] === NEW UPLOAD REQUEST ===
+[2025-10-24 01:28:17] Method: GET
+[2025-10-24 01:28:17] Remote IP: 120.29.89.127
+[2025-10-24 01:34:31] === NEW UPLOAD REQUEST ===
+[2025-10-24 01:34:31] Method: GET
+[2025-10-24 01:34:31] Remote IP: 120.29.89.127
+[2025-10-24 01:34:33] === NEW UPLOAD REQUEST ===
+[2025-10-24 01:34:33] Method: GET
+[2025-10-24 01:34:33] Remote IP: 120.29.89.127
+[2025-10-24 01:40:35] === HTTP UPLOAD REQUEST ===
+[2025-10-24 01:40:35] Method: GET
+[2025-10-24 01:40:35] IP: 120.29.89.127
+[2025-10-24 01:40:35] Protocol: on
+[2025-10-24 01:40:35] ERROR: Wrong method
+[2025-10-24 01:45:33] === HTTP UPLOAD REQUEST ===
+[2025-10-24 01:45:33] Method: GET
+[2025-10-24 01:45:33] IP: 120.29.89.127
+[2025-10-24 01:45:33] Protocol: on
+[2025-10-24 01:45:33] ERROR: Wrong method
+[2025-10-24 01:45:34] === HTTP UPLOAD REQUEST ===
+[2025-10-24 01:45:34] Method: GET
+[2025-10-24 01:45:34] IP: 120.29.89.127
+[2025-10-24 01:45:34] Protocol: on
+[2025-10-24 01:45:34] ERROR: Wrong method
+[2025-10-24 01:56:29] === HTTP UPLOAD REQUEST ===
+[2025-10-24 01:56:29] Method: GET
+[2025-10-24 01:56:29] IP: 120.29.89.127
+[2025-10-24 01:56:29] Protocol: on
+[2025-10-24 01:56:29] ERROR: Wrong method
+[2025-10-24 01:56:30] === HTTP UPLOAD REQUEST ===
+[2025-10-24 01:56:30] Method: GET
+[2025-10-24 01:56:30] IP: 120.29.89.127
+[2025-10-24 01:56:30] Protocol: on
+[2025-10-24 01:56:30] ERROR: Wrong method
+[2025-10-24 01:56:30] === HTTP UPLOAD REQUEST ===
+[2025-10-24 01:56:30] Method: GET
+[2025-10-24 01:56:30] IP: 120.29.89.127
+[2025-10-24 01:56:30] Protocol: on
+[2025-10-24 01:56:30] ERROR: Wrong method
+[2025-10-24 02:16:13] === ROOT HTTP ENDPOINT REQUEST ===
+[2025-10-24 02:16:13] Method: GET
+[2025-10-24 02:16:13] IP: 120.29.89.127
+[2025-10-24 02:16:13] Request URI: /arduino_http.php
+[2025-10-24 02:16:13] ERROR: Wrong method - GET
+[2025-10-24 04:29:26] === NEW UPLOAD FROM ARDUINO ===
+[2025-10-24 04:29:26] Method: POST
+[2025-10-24 04:29:26] Remote IP: 120.29.89.127
+[2025-10-24 04:29:26] Raw JSON: {"ph_level":9.32,"tds_value":278.26,"ec_value":517.71,"turbidity":0.16,"temperature":16.99}
+[2025-10-24 04:29:26] No logged-in user - checking device session...
+[2025-10-24 04:29:26] No active session - using default user...
+[2025-10-24 04:29:26] ✓ Using default user: Bryan Mamuyac (ID: 16)
+[2025-10-24 04:29:26] ✓ SUCCESS - ID: 109 | User: Bryan Mamuyac | pH: 9.32 | TDS: 278.26 | EC: 517.71 | Turb: 0.16 | Temp: 16.99
+[2025-10-24 04:29:26] ---
+[2025-10-24 04:29:57] === NEW UPLOAD FROM ARDUINO ===
+[2025-10-24 04:29:57] Method: POST
+[2025-10-24 04:29:57] Remote IP: 120.29.89.127
+[2025-10-24 04:29:57] Raw JSON: {"ph_level":9.32,"tds_value":278.26,"ec_value":512.46,"turbidity":0.16,"temperature":17.42}
+[2025-10-24 04:29:57] No logged-in user - checking device session...
+[2025-10-24 04:29:57] No active session - using default user...
+[2025-10-24 04:29:57] ✓ Using default user: Bryan Mamuyac (ID: 16)
+[2025-10-24 04:29:57] ✓ SUCCESS - ID: 110 | User: Bryan Mamuyac | pH: 9.32 | TDS: 278.26 | EC: 512.46 | Turb: 0.16 | Temp: 17.42
+[2025-10-24 04:29:57] ---
+[2025-10-24 04:30:27] === NEW UPLOAD FROM ARDUINO ===
+[2025-10-24 04:30:27] Method: POST
+[2025-10-24 04:30:27] Remote IP: 120.29.89.127
+[2025-10-24 04:30:27] Raw JSON: {"ph_level":9.32,"tds_value":278.26,"ec_value":507.31,"turbidity":0.16,"temperature":17.85}
+[2025-10-24 04:30:27] No logged-in user - checking device session...
+[2025-10-24 04:30:27] No active session - using default user...
+[2025-10-24 04:30:27] ✓ Using default user: Bryan Mamuyac (ID: 16)
+[2025-10-24 04:30:27] ✓ SUCCESS - ID: 111 | User: Bryan Mamuyac | pH: 9.32 | TDS: 278.26 | EC: 507.31 | Turb: 0.16 | Temp: 17.85
+[2025-10-24 04:30:27] ---
+[2025-10-24 04:45:26] === NEW UPLOAD FROM ARDUINO ===
+[2025-10-24 04:45:26] Method: POST
+[2025-10-24 04:45:26] Remote IP: 120.29.89.127
+[2025-10-24 04:45:26] Raw JSON: {"ph_level":9.39,"tds_value":278.26,"ec_value":504.27,"turbidity":0.16,"temperature":18.11}
+[2025-10-24 04:45:26] No logged-in user - checking device session...
+[2025-10-24 04:45:26] No active session - using default user...
+[2025-10-24 04:45:26] ✓ Using default user: Bryan Mamuyac (ID: 16)
+[2025-10-24 04:45:26] ✓ SUCCESS - ID: 112 | User: Bryan Mamuyac | pH: 9.39 | TDS: 278.26 | EC: 504.27 | Turb: 0.16 | Temp: 18.11
+[2025-10-24 04:45:26] ---
+[2025-10-24 04:45:56] === NEW UPLOAD FROM ARDUINO ===
+[2025-10-24 04:45:56] Method: POST
+[2025-10-24 04:45:56] Remote IP: 120.29.89.127
+[2025-10-24 04:45:56] Raw JSON: {"ph_level":9.39,"tds_value":278.26,"ec_value":498.31,"turbidity":0.16,"temperature":18.63}
+[2025-10-24 04:45:56] No logged-in user - checking device session...
+[2025-10-24 04:45:56] No active session - using default user...
+[2025-10-24 04:45:56] ✓ Using default user: Bryan Mamuyac (ID: 16)
+[2025-10-24 04:45:56] ✓ SUCCESS - ID: 113 | User: Bryan Mamuyac | pH: 9.39 | TDS: 278.26 | EC: 498.31 | Turb: 0.16 | Temp: 18.63
+[2025-10-24 04:45:56] ---
+[2025-10-24 04:53:41] === NEW UPLOAD FROM ARDUINO ===
+[2025-10-24 04:53:41] Method: POST
+[2025-10-24 04:53:41] Remote IP: 120.29.89.127
+[2025-10-24 04:53:41] Raw JSON: {"ph_level":9.39,"tds_value":276.05,"ec_value":487.62,"turbidity":12.82,"temperature":19.23}
+[2025-10-24 04:53:41] No logged-in user - checking device session...
+[2025-10-24 04:53:41] No active session - using default user...
+[2025-10-24 04:53:41] ✓ Using default user: Bryan Mamuyac (ID: 16)
+[2025-10-24 04:53:41] ✓ SUCCESS - ID: 114 | User: Bryan Mamuyac | pH: 9.39 | TDS: 276.05 | EC: 487.62 | Turb: 12.82 | Temp: 19.23
+[2025-10-24 04:53:41] ---
+[2025-10-24 04:54:11] === NEW UPLOAD FROM ARDUINO ===
+[2025-10-24 04:54:11] Method: POST
+[2025-10-24 04:54:11] Remote IP: 120.29.89.127
+[2025-10-24 04:54:11] Raw JSON: {"ph_level":0.00,"tds_value":276.05,"ec_value":483.85,"turbidity":12.82,"temperature":19.57}
+[2025-10-24 04:54:11] No logged-in user - checking device session...
+[2025-10-24 04:54:11] No active session - using default user...
+[2025-10-24 04:54:11] ✓ Using default user: Bryan Mamuyac (ID: 16)
+[2025-10-24 04:54:11] ✓ SUCCESS - ID: 115 | User: Bryan Mamuyac | pH: 0 | TDS: 276.05 | EC: 483.85 | Turb: 12.82 | Temp: 19.57
+[2025-10-24 04:54:11] ---
+[2025-10-24 05:10:47] === NEW UPLOAD REQUEST ===
+[2025-10-24 05:10:47] Method: POST
+[2025-10-24 05:10:47] Remote IP: 120.29.89.127
+[2025-10-24 05:10:47] Raw JSON: {"ph_level":0.00,"tds_value":277.16,"ec_value":494.38,"turbidity":13.15,"temperature":18.80}
+[2025-10-24 05:10:47] No web session - checking for active device claim...
+[2025-10-24 05:10:47] No device claim - checking for recently active user...
+[2025-10-24 05:10:47] ✓ Using most recent user: Eric Gurion (ID: 24)
+[2025-10-24 05:10:47] ✓ SUCCESS - Record ID: 116 | User: Eric Gurion (ID: 24) | Method: recent_user | pH: 0 | TDS: 277.16 | EC: 494.38 | Turb: 13.15 | Temp: 18.8
+[2025-10-24 05:10:47] ---
+[2025-10-24 05:11:17] === NEW UPLOAD REQUEST ===
+[2025-10-24 05:11:17] Method: POST
+[2025-10-24 05:11:17] Remote IP: 120.29.89.127
+[2025-10-24 05:11:17] Raw JSON: {"ph_level":9.39,"tds_value":277.16,"ec_value":487.67,"turbidity":13.15,"temperature":19.40}
+[2025-10-24 05:11:17] ✗ ERROR: Database connection failed
+[2025-10-24 05:11:17] ---
+[2025-10-24 05:11:47] === NEW UPLOAD REQUEST ===
+[2025-10-24 05:11:47] Method: POST
+[2025-10-24 05:11:47] Remote IP: 120.29.89.127
+[2025-10-24 05:11:47] Raw JSON: {"ph_level":0.00,"tds_value":277.16,"ec_value":482.99,"turbidity":13.15,"temperature":19.83}
+[2025-10-24 05:15:35] === NEW UPLOAD REQUEST ===
+[2025-10-24 05:15:35] Method: POST
+[2025-10-24 05:15:35] Remote IP: 120.29.89.127
+[2025-10-24 05:15:35] Raw JSON: {"ph_level":9.39,"tds_value":278.26,"ec_value":485.84,"turbidity":0.16,"temperature":19.75}
+[2025-10-24 05:15:35] No web session - checking for active device claim...
+[2025-10-24 05:15:35] No device claim - checking for recently active user...
+[2025-10-24 05:15:35] ✓ Using most recent user: Eric Gurion (ID: 24)
+[2025-10-24 05:15:35] ✓ SUCCESS - Record ID: 117 | User: Eric Gurion (ID: 24) | Method: recent_user | pH: 9.39 | TDS: 278.26 | EC: 485.84 | Turb: 0.16 | Temp: 19.75
+[2025-10-24 05:15:35] ---
+[2025-10-24 05:16:05] === NEW UPLOAD REQUEST ===
+[2025-10-24 05:16:05] Method: POST
+[2025-10-24 05:16:05] Remote IP: 120.29.89.127
+[2025-10-24 05:16:05] Raw JSON: {"ph_level":9.39,"tds_value":278.26,"ec_value":482.13,"turbidity":0.16,"temperature":20.09}
+[2025-10-24 05:16:05] No web session - checking for active device claim...
+[2025-10-24 05:16:05] No device claim - checking for recently active user...
+[2025-10-24 05:16:05] ✓ Using most recent user: Eric Gurion (ID: 24)
+[2025-10-24 05:16:05] ✓ SUCCESS - Record ID: 118 | User: Eric Gurion (ID: 24) | Method: recent_user | pH: 9.39 | TDS: 278.26 | EC: 482.13 | Turb: 0.16 | Temp: 20.09
+[2025-10-24 05:16:05] ---
+[2025-10-24 05:16:35] === NEW UPLOAD REQUEST ===
+[2025-10-24 05:16:35] Method: POST
+[2025-10-24 05:16:35] Remote IP: 120.29.89.127
+[2025-10-24 05:16:35] Raw JSON: {"ph_level":0.00,"tds_value":278.26,"ec_value":478.47,"turbidity":0.16,"temperature":20.43}
+[2025-10-24 05:16:35] No web session - checking for active device claim...
+[2025-10-24 05:16:35] No device claim - checking for recently active user...
+[2025-10-24 05:16:35] ✓ Using most recent user: Eric Gurion (ID: 24)
+[2025-10-24 05:16:35] ✓ SUCCESS - Record ID: 119 | User: Eric Gurion (ID: 24) | Method: recent_user | pH: 0 | TDS: 278.26 | EC: 478.47 | Turb: 0.16 | Temp: 20.43
+[2025-10-24 05:16:35] ---
+[2025-10-24 05:17:05] === NEW UPLOAD REQUEST ===
+[2025-10-24 05:17:05] Method: POST
+[2025-10-24 05:17:05] Remote IP: 120.29.89.127
+[2025-10-24 05:17:05] Raw JSON: {"ph_level":9.39,"tds_value":278.26,"ec_value":477.57,"turbidity":0.16,"temperature":20.52}
+[2025-10-24 05:17:05] No web session - checking for active device claim...
+[2025-10-24 05:17:05] No device claim - checking for recently active user...
+[2025-10-24 05:17:05] ✓ Using most recent user: Eric Gurion (ID: 24)
+[2025-10-24 05:17:05] ✓ SUCCESS - Record ID: 120 | User: Eric Gurion (ID: 24) | Method: recent_user | pH: 9.39 | TDS: 278.26 | EC: 477.57 | Turb: 0.16 | Temp: 20.52
+[2025-10-24 05:17:05] ---
+[2025-10-24 05:25:03] === NEW UPLOAD REQUEST ===
+[2025-10-24 05:25:03] Method: POST
+[2025-10-24 05:25:03] Remote IP: 120.29.89.127
+[2025-10-24 05:25:03] Raw JSON: {"ph_level":0.00,"tds_value":278.26,"ec_value":485.84,"turbidity":0.16,"temperature":19.75}
+[2025-10-24 05:25:03] 🔍 Checking for active device claim...
+[2025-10-24 05:25:03] ✓ Expired old sessions (2+ hours)
+[2025-10-24 05:25:03] ✗ ERROR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ds.last_heartbeat' in 'SELECT'
+[2025-10-24 05:25:03] ---
+[2025-10-24 05:25:33] === NEW UPLOAD REQUEST ===
+[2025-10-24 05:25:33] Method: POST
+[2025-10-24 05:25:33] Remote IP: 120.29.89.127
+[2025-10-24 05:25:33] Raw JSON: {"ph_level":9.39,"tds_value":278.26,"ec_value":481.21,"turbidity":0.16,"temperature":20.18}
+[2025-10-24 05:25:33] 🔍 Checking for active device claim...
+[2025-10-24 05:25:33] ✓ Expired old sessions (2+ hours)
+[2025-10-24 05:25:33] ✗ ERROR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ds.last_heartbeat' in 'SELECT'
+[2025-10-24 05:25:33] ---
+[2025-10-24 05:26:03] === NEW UPLOAD REQUEST ===
+[2025-10-24 05:26:03] Method: POST
+[2025-10-24 05:26:03] Remote IP: 120.29.89.127
+[2025-10-24 05:26:03] Raw JSON: {"ph_level":0.00,"tds_value":278.26,"ec_value":477.57,"turbidity":0.16,"temperature":20.52}
+[2025-10-24 05:26:03] 🔍 Checking for active device claim...
+[2025-10-24 05:26:03] ✓ Expired old sessions (2+ hours)
+[2025-10-24 05:26:03] ✗ ERROR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'ds.last_heartbeat' in 'SELECT'
+[2025-10-24 05:26:03] ---
+[2025-10-24 05:29:36] === NEW UPLOAD REQUEST ===
+[2025-10-24 05:29:36] Method: POST
+[2025-10-24 05:29:36] Raw JSON: {"ph_level":0.00,"tds_value":277.16,"ec_value":474.77,"turbidity":13.15,"temperature":20.61}
+[2025-10-24 05:29:36] ✓ JSON validation passed
+[2025-10-24 05:29:36] ✓ Database config loaded
+[2025-10-24 05:29:36] ✓ Database connected
+[2025-10-24 05:29:36] ✓ Device ID: 1
+[2025-10-24 05:29:36] ✓ device_sessions table exists
+[2025-10-24 05:29:36] ✓ Expired old sessions
+[2025-10-24 05:29:36] → No device claim found, using admin fallback
+[2025-10-24 05:29:36] ✓ Using admin: Admin User (ID: 1)
+[2025-10-24 05:29:36] ✓ Data validated - pH:0 TDS:277.16 EC:474.77 Turb:13.15 Temp:20.61
+[2025-10-24 05:29:36] ✓✓✓ SUCCESS - Record ID: 121 assigned to Admin User (ID: 1)
+[2025-10-24 05:29:36] ---
+[2025-10-24 05:30:06] === NEW UPLOAD REQUEST ===
+[2025-10-24 05:30:06] Method: POST
+[2025-10-24 05:30:06] Raw JSON: {"ph_level":0.00,"tds_value":277.16,"ec_value":472.09,"turbidity":13.15,"temperature":20.87}
+[2025-10-24 05:30:06] ✓ JSON validation passed
+[2025-10-24 05:30:06] ✓ Database config loaded
+[2025-10-24 05:30:06] ✓ Database connected
+[2025-10-24 05:30:06] ✓ Device ID: 1
+[2025-10-24 05:30:06] ✓ device_sessions table exists
+[2025-10-24 05:30:06] ✓ Expired old sessions
+[2025-10-24 05:30:06] → No device claim found, using admin fallback
+[2025-10-24 05:30:06] ✓ Using admin: Admin User (ID: 1)
+[2025-10-24 05:30:06] ✓ Data validated - pH:0 TDS:277.16 EC:472.09 Turb:13.15 Temp:20.87
+[2025-10-24 05:30:06] ✓✓✓ SUCCESS - Record ID: 122 assigned to Admin User (ID: 1)
+[2025-10-24 05:30:06] ---
+[2025-10-24 05:30:36] === NEW UPLOAD REQUEST ===
+[2025-10-24 05:30:36] Method: POST
+[2025-10-24 05:30:36] Raw JSON: {"ph_level":0.00,"tds_value":277.16,"ec_value":471.20,"turbidity":13.15,"temperature":20.95}
+[2025-10-24 05:30:36] ✓ JSON validation passed
+[2025-10-24 05:30:36] ✓ Database config loaded
+[2025-10-24 05:30:36] ✓ Database connected
+[2025-10-24 05:30:36] ✓ Device ID: 1
+[2025-10-24 05:30:36] ✓ device_sessions table exists
+[2025-10-24 05:30:36] ✓ Expired old sessions
+[2025-10-24 05:30:36] → No device claim found, using admin fallback
+[2025-10-24 05:30:36] ✓ Using admin: Admin User (ID: 1)
+[2025-10-24 05:30:36] ✓ Data validated - pH:0 TDS:277.16 EC:471.2 Turb:13.15 Temp:20.95
+[2025-10-24 05:30:36] ✓✓✓ SUCCESS - Record ID: 123 assigned to Admin User (ID: 1)
+[2025-10-24 05:30:36] ---
+[2025-10-24 05:33:08] === NEW UPLOAD FROM ARDUINO ===
+[2025-10-24 05:33:08] Method: POST
+[2025-10-24 05:33:08] Remote IP: 120.29.89.127
+[2025-10-24 05:33:08] Raw JSON: {"ph_level":9.39,"tds_value":277.16,"ec_value":472.09,"turbidity":13.15,"temperature":20.87}
+[2025-10-24 05:33:08] No logged-in user - checking device session...
+[2025-10-24 05:33:08] No active session - using default user...
+[2025-10-24 05:33:08] ✓ Using default user: Bryan Mamuyac (ID: 16)
+[2025-10-24 05:33:08] ✓ SUCCESS - ID: 124 | User: Bryan Mamuyac | pH: 9.39 | TDS: 277.16 | EC: 472.09 | Turb: 13.15 | Temp: 20.87
+[2025-10-24 05:33:08] ---
+[2025-10-24 05:33:38] === NEW UPLOAD FROM ARDUINO ===
+[2025-10-24 05:33:38] Method: POST
+[2025-10-24 05:33:38] Remote IP: 120.29.89.127
+[2025-10-24 05:33:38] Raw JSON: {"ph_level":9.39,"tds_value":277.16,"ec_value":470.32,"turbidity":13.15,"temperature":21.04}
+[2025-10-24 05:33:38] No logged-in user - checking device session...
+[2025-10-24 05:33:38] No active session - using default user...
+[2025-10-24 05:33:38] ✓ Using default user: Bryan Mamuyac (ID: 16)
+[2025-10-24 05:33:38] ✓ SUCCESS - ID: 125 | User: Bryan Mamuyac | pH: 9.39 | TDS: 277.16 | EC: 470.32 | Turb: 13.15 | Temp: 21.04
+[2025-10-24 05:33:38] ---
+[2025-10-24 05:34:09] === NEW UPLOAD FROM ARDUINO ===
+[2025-10-24 05:34:09] Method: POST
+[2025-10-24 05:34:09] Remote IP: 120.29.89.127
+[2025-10-24 05:34:09] Raw JSON: {"ph_level":9.39,"tds_value":278.26,"ec_value":470.43,"turbidity":0.16,"temperature":21.21}
+[2025-10-24 05:34:09] No logged-in user - checking device session...
+[2025-10-24 05:34:09] No active session - using default user...
+[2025-10-24 05:34:09] ✓ Using default user: Bryan Mamuyac (ID: 16)
+[2025-10-24 05:34:09] ✓ SUCCESS - ID: 126 | User: Bryan Mamuyac | pH: 9.39 | TDS: 278.26 | EC: 470.43 | Turb: 0.16 | Temp: 21.21
+[2025-10-24 05:34:09] ---
+[2025-10-24 05:37:07] === NEW UPLOAD REQUEST ===
+[2025-10-24 05:37:07] Method: POST
+[2025-10-24 05:37:07] Raw JSON: {"ph_level":9.39,"tds_value":277.16,"ec_value":472.98,"turbidity":13.15,"temperature":20.78}
+[2025-10-24 05:37:07] ✓ JSON validation passed
+[2025-10-24 05:37:07] ✓ Database config loaded
+[2025-10-24 05:37:07] ✓ Database connected
+[2025-10-24 05:37:07] ✓ Device ID: 1
+[2025-10-24 05:37:07] ✓ device_sessions table exists
+[2025-10-24 05:37:07] ✓ Expired old sessions
+[2025-10-24 05:37:07] → No device claim found, using default account (ID: 16)
+[2025-10-24 05:37:07] ✓ Using default user: Bryan Mamuyac (ID: 16)
+[2025-10-24 05:37:07] ✓ Data validated - pH:9.39 TDS:277.16 EC:472.98 Turb:13.15 Temp:20.78
+[2025-10-24 05:37:07] ✓✓✓ SUCCESS - Record ID: 127 assigned to Bryan Mamuyac (ID: 16)
+[2025-10-24 05:37:07] ---
+[2025-10-24 05:37:38] === NEW UPLOAD REQUEST ===
+[2025-10-24 05:37:38] Method: POST
+[2025-10-24 05:37:38] Raw JSON: {"ph_level":9.39,"tds_value":277.16,"ec_value":471.20,"turbidity":13.15,"temperature":20.95}
+[2025-10-24 05:37:38] ✓ JSON validation passed
+[2025-10-24 05:37:38] ✓ Database config loaded
+[2025-10-24 05:37:38] ✓ Database connected
+[2025-10-24 05:37:38] ✓ Device ID: 1
+[2025-10-24 05:37:38] ✓ device_sessions table exists
+[2025-10-24 05:37:38] ✓ Expired old sessions
+[2025-10-24 05:37:38] → No device claim found, using default account (ID: 16)
+[2025-10-24 05:37:38] ✓ Using default user: Bryan Mamuyac (ID: 16)
+[2025-10-24 05:37:38] ✓ Data validated - pH:9.39 TDS:277.16 EC:471.2 Turb:13.15 Temp:20.95
+[2025-10-24 05:37:38] ✓✓✓ SUCCESS - Record ID: 128 assigned to Bryan Mamuyac (ID: 16)
+[2025-10-24 05:37:38] ---
+[2025-10-24 05:38:08] === NEW UPLOAD REQUEST ===
+[2025-10-24 05:38:08] Method: POST
+[2025-10-24 05:38:08] Raw JSON: {"ph_level":9.39,"tds_value":277.16,"ec_value":469.44,"turbidity":13.15,"temperature":21.13}
+[2025-10-24 05:38:08] ✓ JSON validation passed
+[2025-10-24 05:38:08] ✓ Database config loaded
+[2025-10-24 05:38:08] ✓ Database connected
+[2025-10-24 05:38:08] ✓ Device ID: 1
+[2025-10-24 05:38:08] ✓ device_sessions table exists
+[2025-10-24 05:38:08] ✓ Expired old sessions
+[2025-10-24 05:38:08] → No device claim found, using default account (ID: 16)
+[2025-10-24 05:38:08] ✓ Using default user: Bryan Mamuyac (ID: 16)
+[2025-10-24 05:38:08] ✓ Data validated - pH:9.39 TDS:277.16 EC:469.44 Turb:13.15 Temp:21.13
+[2025-10-24 05:38:08] ✓✓✓ SUCCESS - Record ID: 129 assigned to Bryan Mamuyac (ID: 16)
+[2025-10-24 05:38:08] ---
+[2025-10-24 05:38:38] === NEW UPLOAD REQUEST ===
+[2025-10-24 05:38:38] Method: POST
+[2025-10-24 05:38:38] Raw JSON: {"ph_level":9.39,"tds_value":277.16,"ec_value":468.56,"turbidity":13.15,"temperature":21.21}
+[2025-10-24 05:38:38] ✓ JSON validation passed
+[2025-10-24 05:38:38] ✓ Database config loaded
+[2025-10-24 05:38:38] ✓ Database connected
+[2025-10-24 05:38:38] ✓ Device ID: 1
+[2025-10-24 05:38:38] ✓ device_sessions table exists
+[2025-10-24 05:38:38] ✓ Expired old sessions
+[2025-10-24 05:38:38] → No device claim found, using default account (ID: 16)
+[2025-10-24 05:38:38] ✓ Using default user: Bryan Mamuyac (ID: 16)
+[2025-10-24 05:38:38] ✓ Data validated - pH:9.39 TDS:277.16 EC:468.56 Turb:13.15 Temp:21.21
+[2025-10-24 05:38:38] ✓✓✓ SUCCESS - Record ID: 130 assigned to Bryan Mamuyac (ID: 16)
+[2025-10-24 05:38:38] ---
+[2025-10-24 05:39:09] === NEW UPLOAD REQUEST ===
+[2025-10-24 05:39:09] Method: POST
+[2025-10-24 05:39:09] Raw JSON: {"ph_level":9.39,"tds_value":277.16,"ec_value":467.69,"turbidity":13.15,"temperature":21.30}
+[2025-10-24 05:39:09] ✓ JSON validation passed
+[2025-10-24 05:39:09] ✓ Database config loaded
+[2025-10-24 05:39:09] ✓ Database connected
+[2025-10-24 05:39:09] ✓ Device ID: 1
+[2025-10-24 05:39:09] ✓ device_sessions table exists
+[2025-10-24 05:39:09] ✓ Expired old sessions
+[2025-10-24 05:39:09] → No device claim found, using default account (ID: 16)
+[2025-10-24 05:39:09] ✓ Using default user: Bryan Mamuyac (ID: 16)
+[2025-10-24 05:39:09] ✓ Data validated - pH:9.39 TDS:277.16 EC:467.69 Turb:13.15 Temp:21.3
+[2025-10-24 05:39:09] ✓✓✓ SUCCESS - Record ID: 131 assigned to Bryan Mamuyac (ID: 16)
+[2025-10-24 05:39:09] ---
+[2025-10-24 10:20:32] === NEW UPLOAD REQUEST ===
+[2025-10-24 10:20:32] Method: POST
+[2025-10-24 10:20:32] Raw JSON: {"ph_level":9.37,"tds_value":666.68,"ec_value":1205.76,"turbidity":56.67,"temperature":18.20}
+[2025-10-24 10:20:32] ✓ JSON validation passed
+[2025-10-24 10:20:32] ✓ Database config loaded
+[2025-10-24 10:20:32] ✓ Database connected
+[2025-10-24 10:20:32] ✓ Device ID: 1
+[2025-10-24 10:20:32] ✓ device_sessions table exists
+[2025-10-24 10:20:32] ✓ Expired old sessions
+[2025-10-24 10:20:32] → No device claim found, using default account (ID: 16)
+[2025-10-24 10:20:32] ✓ Using default user: Bryan Mamuyac (ID: 16)
+[2025-10-24 10:20:32] ✓ Data validated - pH:9.37 TDS:666.68 EC:1205.76 Turb:56.67 Temp:18.2
+[2025-10-24 10:20:32] ✓✓✓ SUCCESS - Record ID: 132 assigned to Bryan Mamuyac (ID: 16)
+[2025-10-24 10:20:32] ---
+[2025-10-24 10:21:03] === NEW UPLOAD REQUEST ===
+[2025-10-24 10:21:03] Method: POST
+[2025-10-24 10:21:03] Raw JSON: {"ph_level":9.39,"tds_value":660.52,"ec_value":1189.88,"turbidity":56.05,"temperature":18.37}
+[2025-10-24 10:21:03] ✓ JSON validation passed
+[2025-10-24 10:21:03] ✓ Database config loaded
+[2025-10-24 10:21:03] ✓ Database connected
+[2025-10-24 10:21:03] ✓ Device ID: 1
+[2025-10-24 10:21:03] ✓ device_sessions table exists
+[2025-10-24 10:21:03] ✓ Expired old sessions
+[2025-10-24 10:21:03] → No device claim found, using default account (ID: 16)
+[2025-10-24 10:21:03] ✓ Using default user: Bryan Mamuyac (ID: 16)
+[2025-10-24 10:21:03] ✓ Data validated - pH:9.39 TDS:660.52 EC:1189.88 Turb:56.05 Temp:18.37
+[2025-10-24 10:21:03] ✓✓✓ SUCCESS - Record ID: 133 assigned to Bryan Mamuyac (ID: 16)
+[2025-10-24 10:21:03] ---
+[2025-10-24 10:21:49] === NEW UPLOAD REQUEST ===
+[2025-10-24 10:21:49] Method: POST
+[2025-10-24 10:21:49] Raw JSON: {"ph_level":0.00,"tds_value":321.19,"ec_value":571.80,"turbidity":22.12,"temperature":18.88}
+[2025-10-24 10:21:49] ✓ JSON validation passed
+[2025-10-24 10:21:49] ✓ Database config loaded
+[2025-10-24 10:21:49] ✓ Database connected
+[2025-10-24 10:21:49] ✓ Device ID: 1
+[2025-10-24 10:21:49] ✓ device_sessions table exists
+[2025-10-24 10:21:49] ✓ Expired old sessions
+[2025-10-24 10:21:49] → No device claim found, using default account (ID: 16)
+[2025-10-24 10:21:49] ✓ Using default user: Bryan Mamuyac (ID: 16)
+[2025-10-24 10:21:49] ✓ Data validated - pH:0 TDS:321.19 EC:571.8 Turb:22.12 Temp:18.88
+[2025-10-24 10:21:49] ✓✓✓ SUCCESS - Record ID: 134 assigned to Bryan Mamuyac (ID: 16)
+[2025-10-24 10:21:49] ---
+[2025-10-24 10:22:19] === NEW UPLOAD REQUEST ===
+[2025-10-24 10:22:19] Method: POST
+[2025-10-24 10:22:19] Raw JSON: {"ph_level":0.00,"tds_value":321.19,"ec_value":568.46,"turbidity":22.12,"temperature":19.14}
+[2025-10-24 10:22:19] ✓ JSON validation passed
+[2025-10-24 10:22:19] ✓ Database config loaded
+[2025-10-24 10:22:19] ✓ Database connected
+[2025-10-24 10:22:19] ✓ Device ID: 1
+[2025-10-24 10:22:19] ✓ device_sessions table exists
+[2025-10-24 10:22:19] ✓ Expired old sessions
+[2025-10-24 10:22:19] → No device claim found, using default account (ID: 16)
+[2025-10-24 10:22:19] ✓ Using default user: Bryan Mamuyac (ID: 16)
+[2025-10-24 10:22:19] ✓ Data validated - pH:0 TDS:321.19 EC:568.46 Turb:22.12 Temp:19.14
+[2025-10-24 10:22:19] ✓✓✓ SUCCESS - Record ID: 135 assigned to Bryan Mamuyac (ID: 16)
+[2025-10-24 10:22:19] ---
+[2025-10-24 10:55:57] === NEW UPLOAD REQUEST ===
+[2025-10-24 10:55:57] Method: POST
+[2025-10-24 10:55:57] Raw JSON: {"ph_level":0.00,"tds_value":326.42,"ec_value":597.51,"turbidity":0.16,"temperature":17.68}
+[2025-10-24 10:55:57] ✓ JSON validation passed
+[2025-10-24 10:55:57] ✓ Database config loaded
+[2025-10-24 10:55:57] ✓ Database connected
+[2025-10-24 10:55:57] ✓ Device ID: 1
+[2025-10-24 10:55:57] ✓ device_sessions table exists
+[2025-10-24 10:55:57] ✓ Expired old sessions
+[2025-10-24 10:55:57] → No device claim found, using default account (ID: 16)
+[2025-10-24 10:55:57] ✓ Using default user: Bryan Mamuyac (ID: 16)
+[2025-10-24 10:55:57] ✓ Data validated - pH:0 TDS:326.42 EC:597.51 Turb:0.16 Temp:17.68
+[2025-10-24 10:55:57] ✓✓✓ SUCCESS - Record ID: 136 assigned to Bryan Mamuyac (ID: 16)
+[2025-10-24 10:55:57] ---
+[2025-10-24 10:56:28] === NEW UPLOAD REQUEST ===
+[2025-10-24 10:56:28] Method: POST
+[2025-10-24 10:56:28] Raw JSON: {"ph_level":0.00,"tds_value":326.42,"ec_value":593.92,"turbidity":0.16,"temperature":17.94}
+[2025-10-24 10:56:28] ✓ JSON validation passed
+[2025-10-24 10:56:28] ✓ Database config loaded
+[2025-10-24 10:56:28] ✓ Database connected
+[2025-10-24 10:56:28] ✓ Device ID: 1
+[2025-10-24 10:56:28] ✓ device_sessions table exists
+[2025-10-24 10:56:28] ✓ Expired old sessions
+[2025-10-24 10:56:28] → No device claim found, using default account (ID: 16)
+[2025-10-24 10:56:28] ✓ Using default user: Bryan Mamuyac (ID: 16)
+[2025-10-24 10:56:28] ✓ Data validated - pH:0 TDS:326.42 EC:593.92 Turb:0.16 Temp:17.94
+[2025-10-24 10:56:28] ✓✓✓ SUCCESS - Record ID: 137 assigned to Bryan Mamuyac (ID: 16)
+[2025-10-24 10:56:28] ---
+[2025-10-24 10:56:58] === NEW UPLOAD REQUEST ===
+[2025-10-24 10:56:58] Method: POST
+[2025-10-24 10:56:58] Raw JSON: {"ph_level":0.00,"tds_value":326.42,"ec_value":588.03,"turbidity":0.16,"temperature":18.37}
+[2025-10-24 10:56:58] ✓ JSON validation passed
+[2025-10-24 10:56:58] ✓ Database config loaded
+[2025-10-24 10:56:58] ✓ Database connected
+[2025-10-24 10:56:58] ✓ Device ID: 1
+[2025-10-24 10:56:58] ✓ device_sessions table exists
+[2025-10-24 10:56:58] ✓ Expired old sessions
+[2025-10-24 10:56:58] → No device claim found, using default account (ID: 16)
+[2025-10-24 10:56:58] ✓ Using default user: Bryan Mamuyac (ID: 16)
+[2025-10-24 10:56:58] ✓ Data validated - pH:0 TDS:326.42 EC:588.03 Turb:0.16 Temp:18.37
+[2025-10-24 10:56:58] ✓✓✓ SUCCESS - Record ID: 138 assigned to Bryan Mamuyac (ID: 16)
+[2025-10-24 10:56:58] ---
+[2025-10-24 10:57:29] === NEW UPLOAD REQUEST ===
+[2025-10-24 10:57:29] Method: POST
+[2025-10-24 10:57:29] Raw JSON: {"ph_level":0.00,"tds_value":326.42,"ec_value":583.40,"turbidity":0.16,"temperature":18.71}
+[2025-10-24 10:57:29] ✓ JSON validation passed
+[2025-10-24 10:57:29] ✓ Database config loaded
+[2025-10-24 10:57:29] ✓ Database connected
+[2025-10-24 10:57:29] ✓ Device ID: 1
+[2025-10-24 10:57:29] ✓ device_sessions table exists
+[2025-10-24 10:57:29] ✓ Expired old sessions
+[2025-10-24 10:57:29] → No device claim found, using default account (ID: 16)
+[2025-10-24 10:57:29] ✓ Using default user: Bryan Mamuyac (ID: 16)
+[2025-10-24 10:57:29] ✓ Data validated - pH:0 TDS:326.42 EC:583.4 Turb:0.16 Temp:18.71
+[2025-10-24 10:57:29] ✓✓✓ SUCCESS - Record ID: 139 assigned to Bryan Mamuyac (ID: 16)
+[2025-10-24 10:57:29] ---
+[2025-10-24 10:57:59] === NEW UPLOAD REQUEST ===
+[2025-10-24 10:57:59] Method: POST
+[2025-10-24 10:57:59] Raw JSON: {"ph_level":0.00,"tds_value":325.13,"ec_value":577.67,"turbidity":22.51,"temperature":18.97}
+[2025-10-24 10:57:59] ✓ JSON validation passed
+[2025-10-24 10:57:59] ✓ Database config loaded
+[2025-10-24 10:57:59] ✓ Database connected
+[2025-10-24 10:57:59] ✓ Device ID: 1
+[2025-10-24 10:57:59] ✓ device_sessions table exists
+[2025-10-24 10:57:59] ✓ Expired old sessions
+[2025-10-24 10:57:59] → No device claim found, using default account (ID: 16)
+[2025-10-24 10:57:59] ✓ Using default user: Bryan Mamuyac (ID: 16)
+[2025-10-24 10:57:59] ✓ Data validated - pH:0 TDS:325.13 EC:577.67 Turb:22.51 Temp:18.97
+[2025-10-24 10:57:59] ✓✓✓ SUCCESS - Record ID: 140 assigned to Bryan Mamuyac (ID: 16)
+[2025-10-24 10:57:59] ---
+[2025-10-24 10:58:30] === NEW UPLOAD REQUEST ===
+[2025-10-24 10:58:30] Method: POST
+[2025-10-24 10:58:30] Raw JSON: {"ph_level":0.00,"tds_value":326.42,"ec_value":576.59,"turbidity":0.16,"temperature":19.23}
+[2025-10-24 10:58:30] ✓ JSON validation passed
+[2025-10-24 10:58:30] ✓ Database config loaded
+[2025-10-24 10:58:30] ✓ Database connected
+[2025-10-24 10:58:30] ✓ Device ID: 1
+[2025-10-24 10:58:30] ✓ device_sessions table exists
+[2025-10-24 10:58:30] ✓ Expired old sessions
+[2025-10-24 10:58:30] → No device claim found, using default account (ID: 16)
+[2025-10-24 10:58:30] ✓ Using default user: Bryan Mamuyac (ID: 16)
+[2025-10-24 10:58:30] ✓ Data validated - pH:0 TDS:326.42 EC:576.59 Turb:0.16 Temp:19.23
+[2025-10-24 10:58:30] ✓✓✓ SUCCESS - Record ID: 141 assigned to Bryan Mamuyac (ID: 16)
+[2025-10-24 10:58:30] ---
+[2025-10-24 10:59:00] === NEW UPLOAD REQUEST ===
+[2025-10-24 10:59:00] Method: POST
+[2025-10-24 10:59:00] Raw JSON: {"ph_level":0.00,"tds_value":325.13,"ec_value":572.07,"turbidity":22.51,"temperature":19.40}
+[2025-10-24 10:59:00] ✓ JSON validation passed
+[2025-10-24 10:59:00] ✓ Database config loaded
+[2025-10-24 10:59:00] ✓ Database connected
+[2025-10-24 10:59:00] ✓ Device ID: 1
+[2025-10-24 10:59:00] ✓ device_sessions table exists
+[2025-10-24 10:59:00] ✓ Expired old sessions
+[2025-10-24 10:59:00] → No device claim found, using default account (ID: 16)
+[2025-10-24 10:59:00] ✓ Using default user: Bryan Mamuyac (ID: 16)
+[2025-10-24 10:59:00] ✓ Data validated - pH:0 TDS:325.13 EC:572.07 Turb:22.51 Temp:19.4
+[2025-10-24 10:59:00] ✓✓✓ SUCCESS - Record ID: 142 assigned to Bryan Mamuyac (ID: 16)
+[2025-10-24 10:59:00] ---
+[2025-10-24 10:59:30] === NEW UPLOAD REQUEST ===
+[2025-10-24 10:59:30] Method: POST
+[2025-10-24 10:59:30] Raw JSON: {"ph_level":0.00,"tds_value":325.13,"ec_value":569.86,"turbidity":22.51,"temperature":19.57}
+[2025-10-24 10:59:30] ✓ JSON validation passed
+[2025-10-24 10:59:30] ✓ Database config loaded
+[2025-10-24 10:59:30] ✓ Database connected
+[2025-10-24 10:59:30] ✓ Device ID: 1
+[2025-10-24 10:59:30] ✓ device_sessions table exists
+[2025-10-24 10:59:30] ✓ Expired old sessions
+[2025-10-24 10:59:30] → No device claim found, using default account (ID: 16)
+[2025-10-24 10:59:30] ✓ Using default user: Bryan Mamuyac (ID: 16)
+[2025-10-24 10:59:30] ✓ Data validated - pH:0 TDS:325.13 EC:569.86 Turb:22.51 Temp:19.57
+[2025-10-24 10:59:30] ✓✓✓ SUCCESS - Record ID: 143 assigned to Bryan Mamuyac (ID: 16)
+[2025-10-24 10:59:30] ---
+[2025-10-24 11:00:00] === NEW UPLOAD REQUEST ===
+[2025-10-24 11:00:00] Method: POST
+[2025-10-24 11:00:00] Raw JSON: {"ph_level":0.00,"tds_value":326.42,"ec_value":569.93,"turbidity":0.16,"temperature":19.75}
+[2025-10-24 11:00:00] ✓ JSON validation passed
+[2025-10-24 11:00:00] ✓ Database config loaded
+[2025-10-24 11:00:00] ✓ Database connected
+[2025-10-24 11:00:00] ✓ Device ID: 1
+[2025-10-24 11:00:00] ✓ device_sessions table exists
+[2025-10-24 11:00:00] ✓ Expired old sessions
+[2025-10-24 11:00:00] → No device claim found, using default account (ID: 16)
+[2025-10-24 11:00:00] ✓ Using default user: Bryan Mamuyac (ID: 16)
+[2025-10-24 11:00:00] ✓ Data validated - pH:0 TDS:326.42 EC:569.93 Turb:0.16 Temp:19.75
+[2025-10-24 11:00:00] ✓✓✓ SUCCESS - Record ID: 144 assigned to Bryan Mamuyac (ID: 16)
+[2025-10-24 11:00:00] ---
+[2025-10-24 12:03:32] === NEW UPLOAD REQUEST ===
+[2025-10-24 12:03:32] Method: POST
+[2025-10-24 12:03:32] Raw JSON: {"ph_level":0.00,"tds_value":317.46,"ec_value":574.16,"turbidity":21.75,"temperature":18.20}
+[2025-10-24 12:03:32] ✓ JSON validation passed
+[2025-10-24 12:03:32] ✓ Database config loaded
+[2025-10-24 12:03:32] ✓ Database connected
+[2025-10-24 12:03:32] ✓ Device ID: 1
+[2025-10-24 12:03:32] ✓ device_sessions table exists
+[2025-10-24 12:03:32] ✓ Expired old sessions
+[2025-10-24 12:03:32] ✓ Device claimed by: Bryan Mamuyac (ID: 16)
+[2025-10-24 12:03:32] ⚠ Error checking device claim: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'last_heartbeat' in 'SET'
+[2025-10-24 12:03:32] ✓ Data validated - pH:0 TDS:317.46 EC:574.16 Turb:21.75 Temp:18.2
+[2025-10-24 12:03:32] ✓✓✓ SUCCESS - Record ID: 145 assigned to Bryan Mamuyac (ID: 16)
+[2025-10-24 12:03:32] ---
+[2025-10-24 12:04:02] === NEW UPLOAD REQUEST ===
+[2025-10-24 12:04:02] Method: POST
+[2025-10-24 12:04:02] Raw JSON: {"ph_level":0.00,"tds_value":321.30,"ec_value":576.51,"turbidity":22.13,"temperature":18.54}
+[2025-10-24 12:04:02] ✓ JSON validation passed
+[2025-10-24 12:04:02] ✓ Database config loaded
+[2025-10-24 12:04:02] ✓ Database connected
+[2025-10-24 12:04:02] ✓ Device ID: 1
+[2025-10-24 12:04:02] ✓ device_sessions table exists
+[2025-10-24 12:04:02] ✓ Expired old sessions
+[2025-10-24 12:04:02] ✓ Device claimed by: Bryan Mamuyac (ID: 16)
+[2025-10-24 12:04:02] ⚠ Error checking device claim: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'last_heartbeat' in 'SET'
+[2025-10-24 12:04:02] ✓ Data validated - pH:0 TDS:321.3 EC:576.51 Turb:22.13 Temp:18.54
+[2025-10-24 12:04:02] ✓✓✓ SUCCESS - Record ID: 146 assigned to Bryan Mamuyac (ID: 16)
+[2025-10-24 12:04:02] ---
+[2025-10-24 12:04:33] === NEW UPLOAD REQUEST ===
+[2025-10-24 12:04:33] Method: POST
+[2025-10-24 12:04:33] Raw JSON: {"ph_level":0.00,"tds_value":318.68,"ec_value":566.22,"turbidity":21.87,"temperature":18.97}
+[2025-10-24 12:04:33] ✓ JSON validation passed
+[2025-10-24 12:04:33] ✓ Database config loaded
+[2025-10-24 12:04:33] ✓ Database connected
+[2025-10-24 12:04:33] ✓ Device ID: 1
+[2025-10-24 12:04:33] ✓ device_sessions table exists
+[2025-10-24 12:04:33] ✓ Expired old sessions
+[2025-10-24 12:04:33] ✓ Device claimed by: Bryan Mamuyac (ID: 16)
+[2025-10-24 12:04:33] ⚠ Error checking device claim: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'last_heartbeat' in 'SET'
+[2025-10-24 12:04:33] ✓ Data validated - pH:0 TDS:318.68 EC:566.22 Turb:21.87 Temp:18.97
+[2025-10-24 12:04:33] ✓✓✓ SUCCESS - Record ID: 147 assigned to Bryan Mamuyac (ID: 16)
+[2025-10-24 12:04:33] ---
+[2025-10-25 11:34:10] === NEW UPLOAD REQUEST ===
+[2025-10-25 11:34:10] Method: POST
+[2025-10-25 11:34:10] Raw JSON: {"ph_level":9.37,"tds_value":684.94,"ec_value":1317.65,"turbidity":58.49,"temperature":15.61}
+[2025-10-25 11:34:10] ✓ JSON validation passed
+[2025-10-25 11:34:10] ✓ Database config loaded
+[2025-10-25 11:34:10] ✓ Database connected
+[2025-10-25 11:34:10] ✓ Device ID: 1
+[2025-10-25 11:34:10] ✓ device_sessions table exists
+[2025-10-25 11:34:10] ✓ Expired old sessions
+[2025-10-25 11:34:10] ✓ Device claimed by: Bryan Mamuyac (ID: 16)
+[2025-10-25 11:34:10] ✓ Data validated - pH:9.37 TDS:684.94 EC:1317.65 Turb:58.49 Temp:15.61
+[2025-10-25 11:34:10] ✓✓✓ SUCCESS - Record ID: 148 assigned to Bryan Mamuyac (ID: 16)
+[2025-10-25 11:34:10] ---
+[2025-10-25 11:34:39] === NEW UPLOAD REQUEST ===
+[2025-10-25 11:34:39] Method: POST
+[2025-10-25 11:34:39] Raw JSON: {"ph_level":9.37,"tds_value":688.14,"ec_value":1321.00,"turbidity":0.15,"temperature":15.70}
+[2025-10-25 11:34:39] ✓ JSON validation passed
+[2025-10-25 11:34:39] ✓ Database config loaded
+[2025-10-25 11:34:39] ✓ Database connected
+[2025-10-25 11:34:39] ✓ Device ID: 1
+[2025-10-25 11:34:39] ✓ device_sessions table exists
+[2025-10-25 11:34:39] ✓ Expired old sessions
+[2025-10-25 11:34:39] ✓ Device claimed by: Bryan Mamuyac (ID: 16)
+[2025-10-25 11:34:39] ✓ Data validated - pH:9.37 TDS:688.14 EC:1321 Turb:0.15 Temp:15.7
+[2025-10-25 11:34:39] ✓✓✓ SUCCESS - Record ID: 149 assigned to Bryan Mamuyac (ID: 16)
+[2025-10-25 11:34:39] ---
+[2025-10-25 11:35:09] === NEW UPLOAD REQUEST ===
+[2025-10-25 11:35:09] Method: POST
+[2025-10-25 11:35:09] Raw JSON: {"ph_level":9.37,"tds_value":688.14,"ec_value":1321.00,"turbidity":0.15,"temperature":15.70}
+[2025-10-25 11:35:09] ✓ JSON validation passed
+[2025-10-25 11:35:09] ✓ Database config loaded
+[2025-10-25 11:35:09] ✓ Database connected
+[2025-10-25 11:35:09] ✓ Device ID: 1
+[2025-10-25 11:35:09] ✓ device_sessions table exists
+[2025-10-25 11:35:09] ✓ Expired old sessions
+[2025-10-25 11:35:09] ✓ Device claimed by: Bryan Mamuyac (ID: 16)
+[2025-10-25 11:35:09] ✓ Data validated - pH:9.37 TDS:688.14 EC:1321 Turb:0.15 Temp:15.7
+[2025-10-25 11:35:09] ✓✓✓ SUCCESS - Record ID: 150 assigned to Bryan Mamuyac (ID: 16)
+[2025-10-25 11:35:09] ---
+[2025-10-25 14:07:45] === NEW UPLOAD REQUEST ===
+[2025-10-25 14:07:45] Method: POST
+[2025-10-25 14:07:45] Raw JSON: {"ph_level":4.90,"tds_value":691.05,"ec_value":1420.61,"turbidity":59.11,"temperature":13.00}
+[2025-10-25 14:07:45] ✓ JSON validation passed
+[2025-10-25 14:07:45] ✓ Database config loaded
+[2025-10-25 14:07:45] ✓ Database connected
+[2025-10-25 14:07:45] ✓ Device ID: 1
+[2025-10-25 14:07:45] ✓ device_sessions table exists
+[2025-10-25 14:07:45] ✓ Expired old sessions
+[2025-10-25 14:07:45] ✓ Device claimed by: Mary Jane Peran (ID: 17)
+[2025-10-25 14:07:45] ✓ Data validated - pH:4.9 TDS:691.05 EC:1420.61 Turb:59.11 Temp:13
+[2025-10-25 14:07:45] ✓✓✓ SUCCESS - Record ID: 151 assigned to Mary Jane Peran (ID: 17)
+[2025-10-25 14:07:45] ---
+[2025-10-25 14:08:15] === NEW UPLOAD REQUEST ===
+[2025-10-25 14:08:15] Method: POST
+[2025-10-25 14:08:15] Raw JSON: {"ph_level":4.84,"tds_value":691.05,"ec_value":1407.66,"turbidity":59.11,"temperature":13.35}
+[2025-10-25 14:08:15] ✓ JSON validation passed
+[2025-10-25 14:08:15] ✓ Database config loaded
+[2025-10-25 14:08:15] ✓ Database connected
+[2025-10-25 14:08:15] ✓ Device ID: 1
+[2025-10-25 14:08:15] ✓ device_sessions table exists
+[2025-10-25 14:08:15] ✓ Expired old sessions
+[2025-10-25 14:08:15] ✓ Device claimed by: Mary Jane Peran (ID: 17)
+[2025-10-25 14:08:15] ✓ Data validated - pH:4.84 TDS:691.05 EC:1407.66 Turb:59.11 Temp:13.35
+[2025-10-25 14:08:15] ✓✓✓ SUCCESS - Record ID: 152 assigned to Mary Jane Peran (ID: 17)
+[2025-10-25 14:08:15] ---
+[2025-10-25 15:13:37] === NEW UPLOAD REQUEST ===
+[2025-10-25 15:13:37] Method: POST
+[2025-10-25 15:13:37] Raw JSON: {"ph_level":8.14,"tds_value":694.12,"ec_value":1410.70,"turbidity":59.41,"temperature":13.44}
+[2025-10-25 15:13:37] ✓ JSON validation passed
+[2025-10-25 15:13:37] ✓ Database config loaded
+[2025-10-25 15:13:37] ✓ Database connected
+[2025-10-25 15:13:37] ✓ Device ID: 1
+[2025-10-25 15:13:37] ✓ device_sessions table exists
+[2025-10-25 15:13:37] ✓ Expired old sessions
+[2025-10-25 15:13:37] ✓ Device claimed by: Bryan Mamuyac (ID: 16)
+[2025-10-25 15:13:37] ✓ Data validated - pH:8.14 TDS:694.12 EC:1410.7 Turb:59.41 Temp:13.44
+[2025-10-25 15:13:37] ✓✓✓ SUCCESS - Record ID: 153 assigned to Bryan Mamuyac (ID: 16)
+[2025-10-25 15:13:37] ---
+[2025-10-25 15:14:06] === NEW UPLOAD REQUEST ===
+[2025-10-25 15:14:06] Method: POST
+[2025-10-25 15:14:06] Raw JSON: {"ph_level":8.16,"tds_value":691.05,"ec_value":1391.84,"turbidity":59.11,"temperature":13.79}
+[2025-10-25 15:14:06] ✓ JSON validation passed
+[2025-10-25 15:14:06] ✓ Database config loaded
+[2025-10-25 15:14:06] ✓ Database connected
+[2025-10-25 15:14:06] ✓ Device ID: 1
+[2025-10-25 15:14:06] ✓ device_sessions table exists
+[2025-10-25 15:14:06] ✓ Expired old sessions
+[2025-10-25 15:14:06] ✓ Device claimed by: Bryan Mamuyac (ID: 16)
+[2025-10-25 15:14:06] ✓ Data validated - pH:8.16 TDS:691.05 EC:1391.84 Turb:59.11 Temp:13.79
+[2025-10-25 15:14:06] ✓✓✓ SUCCESS - Record ID: 154 assigned to Bryan Mamuyac (ID: 16)
+[2025-10-25 15:14:06] ---
+[2025-10-25 16:14:38] === NEW UPLOAD REQUEST ===
+[2025-10-25 16:14:38] Method: POST
+[2025-10-25 16:14:38] Raw JSON: {"ph_level":7.84,"tds_value":691.05,"ec_value":1404.46,"turbidity":59.11,"temperature":13.44}
+[2025-10-25 16:14:38] ✓ JSON validation passed
+[2025-10-25 16:14:38] ✓ Database config loaded
+[2025-10-25 16:14:38] ✓ Database connected
+[2025-10-25 16:14:38] ✓ Device ID: 1
+[2025-10-25 16:14:38] ✓ device_sessions table exists
+[2025-10-25 16:14:38] ✓ Expired old sessions
+[2025-10-25 16:14:38] ✓ Device claimed by: Bryan Mamuyac (ID: 16)
+[2025-10-25 16:14:38] ✓ Data validated - pH:7.84 TDS:691.05 EC:1404.46 Turb:59.11 Temp:13.44
+[2025-10-25 16:14:38] ✓✓✓ SUCCESS - Record ID: 155 assigned to Bryan Mamuyac (ID: 16)
+[2025-10-25 16:14:38] ---
+[2025-10-25 16:15:07] === NEW UPLOAD REQUEST ===
+[2025-10-25 16:15:07] Method: POST
+[2025-10-25 16:15:07] Raw JSON: {"ph_level":7.87,"tds_value":694.30,"ec_value":1395.24,"turbidity":0.15,"temperature":13.88}
+[2025-10-25 16:15:07] ✓ JSON validation passed
+[2025-10-25 16:15:07] ✓ Database config loaded
+[2025-10-25 16:15:07] ✓ Database connected
+[2025-10-25 16:15:07] ✓ Device ID: 1
+[2025-10-25 16:15:07] ✓ device_sessions table exists
+[2025-10-25 16:15:07] ✓ Expired old sessions
+[2025-10-25 16:15:07] ✓ Device claimed by: Bryan Mamuyac (ID: 16)
+[2025-10-25 16:15:07] ✓ Data validated - pH:7.87 TDS:694.3 EC:1395.24 Turb:0.15 Temp:13.88
+[2025-10-25 16:15:07] ✓✓✓ SUCCESS - Record ID: 156 assigned to Bryan Mamuyac (ID: 16)
+[2025-10-25 16:15:07] ---
+[2025-10-25 16:15:37] === NEW UPLOAD REQUEST ===
+[2025-10-25 16:15:37] Method: POST
+[2025-10-25 16:15:37] Raw JSON: {"ph_level":7.87,"tds_value":694.30,"ec_value":1382.87,"turbidity":0.15,"temperature":14.22}
+[2025-10-25 16:15:37] ✓ JSON validation passed
+[2025-10-25 16:15:37] ✓ Database config loaded
+[2025-10-25 16:15:37] ✓ Database connected
+[2025-10-25 16:15:37] ✓ Device ID: 1
+[2025-10-25 16:15:37] ✓ device_sessions table exists
+[2025-10-25 16:15:37] ✓ Expired old sessions
+[2025-10-25 16:15:37] ✓ Device claimed by: Bryan Mamuyac (ID: 16)
+[2025-10-25 16:15:37] ✓ Data validated - pH:7.87 TDS:694.3 EC:1382.87 Turb:0.15 Temp:14.22
+[2025-10-25 16:15:37] ✓✓✓ SUCCESS - Record ID: 157 assigned to Bryan Mamuyac (ID: 16)
+[2025-10-25 16:15:37] ---
+[2025-10-25 16:16:07] === NEW UPLOAD REQUEST ===
+[2025-10-25 16:16:07] Method: POST
+[2025-10-25 16:16:07] Raw JSON: {"ph_level":7.89,"tds_value":691.05,"ec_value":1367.32,"turbidity":0.16,"temperature":14.48}
+[2025-10-25 16:16:07] ✓ JSON validation passed
+[2025-10-25 16:16:07] ✓ Database config loaded
+[2025-10-25 16:16:07] ✓ Database connected
+[2025-10-25 16:16:07] ✓ Device ID: 1
+[2025-10-25 16:16:07] ✓ device_sessions table exists
+[2025-10-25 16:16:07] ✓ Expired old sessions
+[2025-10-25 16:16:07] ✓ Device claimed by: Bryan Mamuyac (ID: 16)
+[2025-10-25 16:16:07] ✓ Data validated - pH:7.89 TDS:691.05 EC:1367.32 Turb:0.16 Temp:14.48
+[2025-10-25 16:16:07] ✓✓✓ SUCCESS - Record ID: 158 assigned to Bryan Mamuyac (ID: 16)
+[2025-10-25 16:16:07] ---
+[2025-10-25 16:16:38] === NEW UPLOAD REQUEST ===
+[2025-10-25 16:16:38] Method: POST
+[2025-10-25 16:16:38] Raw JSON: {"ph_level":7.90,"tds_value":691.05,"ec_value":1361.34,"turbidity":0.16,"temperature":14.66}
+[2025-10-25 16:16:38] ✓ JSON validation passed
+[2025-10-25 16:16:38] ✓ Database config loaded
+[2025-10-25 16:16:38] ✓ Database connected
+[2025-10-25 16:16:38] ✓ Device ID: 1
+[2025-10-25 16:16:38] ✓ device_sessions table exists
+[2025-10-25 16:16:38] ✓ Expired old sessions
+[2025-10-25 16:16:38] ✓ Device claimed by: Bryan Mamuyac (ID: 16)
+[2025-10-25 16:16:38] ✓ Data validated - pH:7.9 TDS:691.05 EC:1361.34 Turb:0.16 Temp:14.66
+[2025-10-25 16:16:38] ✓✓✓ SUCCESS - Record ID: 159 assigned to Bryan Mamuyac (ID: 16)
+[2025-10-25 16:16:38] ---
+[2025-10-25 16:24:58] === NEW UPLOAD REQUEST ===
+[2025-10-25 16:24:58] Method: POST
+[2025-10-25 16:24:58] Raw JSON: {"ph_level":8.13,"tds_value":691.05,"ec_value":1337.96,"turbidity":0.16,"temperature":15.35}
+[2025-10-25 16:24:58] ✓ JSON validation passed
+[2025-10-25 16:24:58] ✓ Database config loaded
+[2025-10-25 16:24:58] ✓ Database connected
+[2025-10-25 16:24:58] ✓ Device ID: 1
+[2025-10-25 16:24:58] ✓ device_sessions table exists
+[2025-10-25 16:24:58] ✓ Expired old sessions
+[2025-10-25 16:24:58] ✓ Device claimed by: Bryan Mamuyac (ID: 16)
+[2025-10-25 16:24:58] ✓ Data validated - pH:8.13 TDS:691.05 EC:1337.96 Turb:0.16 Temp:15.35
+[2025-10-25 16:24:58] ✓✓✓ SUCCESS - Record ID: 160 assigned to Bryan Mamuyac (ID: 16)
+[2025-10-25 16:24:58] ---
+[2025-10-25 16:25:29] === NEW UPLOAD REQUEST ===
+[2025-10-25 16:25:29] Method: POST
+[2025-10-25 16:25:29] Raw JSON: {"ph_level":8.12,"tds_value":694.30,"ec_value":1335.66,"turbidity":0.15,"temperature":15.61}
+[2025-10-25 16:25:29] ✓ JSON validation passed
+[2025-10-25 16:25:29] ✓ Database config loaded
+[2025-10-25 16:25:29] ✓ Database connected
+[2025-10-25 16:25:29] ✓ Device ID: 1
+[2025-10-25 16:25:29] ✓ device_sessions table exists
+[2025-10-25 16:25:29] ✓ Expired old sessions
+[2025-10-25 16:25:29] ✓ Device claimed by: Bryan Mamuyac (ID: 16)
+[2025-10-25 16:25:29] ✓ Data validated - pH:8.12 TDS:694.3 EC:1335.66 Turb:0.15 Temp:15.61
+[2025-10-25 16:25:29] ✓✓✓ SUCCESS - Record ID: 161 assigned to Bryan Mamuyac (ID: 16)
+[2025-10-25 16:25:29] ---
+[2025-10-25 16:25:59] === NEW UPLOAD REQUEST ===
+[2025-10-25 16:25:59] Method: POST
+[2025-10-25 16:25:59] Raw JSON: {"ph_level":8.12,"tds_value":694.30,"ec_value":1330.00,"turbidity":0.15,"temperature":15.78}
+[2025-10-25 16:25:59] ✓ JSON validation passed
+[2025-10-25 16:25:59] ✓ Database config loaded
+[2025-10-25 16:25:59] ✓ Database connected
+[2025-10-25 16:25:59] ✓ Device ID: 1
+[2025-10-25 16:25:59] ✓ device_sessions table exists
+[2025-10-25 16:25:59] ✓ Expired old sessions
+[2025-10-25 16:25:59] ✓ Device claimed by: Bryan Mamuyac (ID: 16)
+[2025-10-25 16:25:59] ✓ Data validated - pH:8.12 TDS:694.3 EC:1330 Turb:0.15 Temp:15.78
+[2025-10-25 16:25:59] ✓✓✓ SUCCESS - Record ID: 162 assigned to Bryan Mamuyac (ID: 16)
+[2025-10-25 16:25:59] ---
+[2025-10-25 16:26:28] === NEW UPLOAD REQUEST ===
+[2025-10-25 16:26:28] Method: POST
+[2025-10-25 16:26:28] Raw JSON: {"ph_level":8.13,"tds_value":691.05,"ec_value":1318.20,"turbidity":0.16,"temperature":15.96}
+[2025-10-25 16:26:28] ✓ JSON validation passed
+[2025-10-25 16:26:28] ✓ Database config loaded
+[2025-10-25 16:26:28] ✓ Database connected
+[2025-10-25 16:26:28] ✓ Device ID: 1
+[2025-10-25 16:26:28] ✓ device_sessions table exists
+[2025-10-25 16:26:28] ✓ Expired old sessions
+[2025-10-25 16:26:28] ✓ Device claimed by: Bryan Mamuyac (ID: 16)
+[2025-10-25 16:26:28] ✓ Data validated - pH:8.13 TDS:691.05 EC:1318.2 Turb:0.16 Temp:15.96
+[2025-10-25 16:26:28] ✓✓✓ SUCCESS - Record ID: 163 assigned to Bryan Mamuyac (ID: 16)
+[2025-10-25 16:26:28] ---
+[2025-10-25 16:26:58] === NEW UPLOAD REQUEST ===
+[2025-10-25 16:26:58] Method: POST
+[2025-10-25 16:26:58] Raw JSON: {"ph_level":8.13,"tds_value":691.05,"ec_value":1318.20,"turbidity":0.16,"temperature":15.96}
+[2025-10-25 16:26:58] ✓ JSON validation passed
+[2025-10-25 16:26:58] ✓ Database config loaded
+[2025-10-25 16:26:58] ✓ Database connected
+[2025-10-25 16:26:58] ✓ Device ID: 1
+[2025-10-25 16:26:58] ✓ device_sessions table exists
+[2025-10-25 16:26:58] ✓ Expired old sessions
+[2025-10-25 16:26:58] ✓ Device claimed by: Bryan Mamuyac (ID: 16)
+[2025-10-25 16:26:58] ✓ Data validated - pH:8.13 TDS:691.05 EC:1318.2 Turb:0.16 Temp:15.96
+[2025-10-25 16:26:58] ✓✓✓ SUCCESS - Record ID: 164 assigned to Bryan Mamuyac (ID: 16)
+[2025-10-25 16:26:58] ---
+[2025-10-25 16:27:29] === NEW UPLOAD REQUEST ===
+[2025-10-25 16:27:29] Method: POST
+[2025-10-25 16:27:29] Raw JSON: {"ph_level":8.12,"tds_value":694.30,"ec_value":1321.61,"turbidity":0.15,"temperature":16.04}
+[2025-10-25 16:27:29] ✓ JSON validation passed
+[2025-10-25 16:27:29] ✓ Database config loaded
+[2025-10-25 16:27:29] ✓ Database connected
+[2025-10-25 16:27:29] ✓ Device ID: 1
+[2025-10-25 16:27:29] ✓ device_sessions table exists
+[2025-10-25 16:27:29] ✓ Expired old sessions
+[2025-10-25 16:27:29] ✓ Device claimed by: Bryan Mamuyac (ID: 16)
+[2025-10-25 16:27:29] ✓ Data validated - pH:8.12 TDS:694.3 EC:1321.61 Turb:0.15 Temp:16.04
+[2025-10-25 16:27:29] ✓✓✓ SUCCESS - Record ID: 165 assigned to Bryan Mamuyac (ID: 16)
+[2025-10-25 16:27:29] ---
+[2025-10-25 16:27:59] === NEW UPLOAD REQUEST ===
+[2025-10-25 16:27:59] Method: POST
+[2025-10-25 16:27:59] Raw JSON: {"ph_level":8.12,"tds_value":694.30,"ec_value":1321.61,"turbidity":0.15,"temperature":16.04}
+[2025-10-25 16:27:59] ✓ JSON validation passed
+[2025-10-25 16:27:59] ✓ Database config loaded
+[2025-10-25 16:27:59] ✓ Database connected
+[2025-10-25 16:27:59] ✓ Device ID: 1
+[2025-10-25 16:27:59] ✓ device_sessions table exists
+[2025-10-25 16:27:59] ✓ Expired old sessions
+[2025-10-25 16:27:59] → No device claim found, using default account (ID: 16)
+[2025-10-25 16:27:59] ✓ Using default user: Bryan Mamuyac (ID: 16)
+[2025-10-25 16:27:59] ✓ Data validated - pH:8.12 TDS:694.3 EC:1321.61 Turb:0.15 Temp:16.04
+[2025-10-25 16:27:59] ✓✓✓ SUCCESS - Record ID: 166 assigned to Bryan Mamuyac (ID: 16)
+[2025-10-25 16:27:59] ---
+[2025-10-25 16:34:33] === NEW UPLOAD REQUEST ===
+[2025-10-25 16:34:33] Method: POST
+[2025-10-25 16:34:33] Raw JSON: {"ph_level":8.13,"tds_value":691.05,"ec_value":1323.79,"turbidity":0.16,"temperature":15.78}
+[2025-10-25 16:34:33] ✓ JSON validation passed
+[2025-10-25 16:34:33] ✓ Database config loaded
+[2025-10-25 16:34:33] ✓ Database connected
+[2025-10-25 16:34:33] ✓ Device ID: 1
+[2025-10-25 16:34:33] ✓ device_sessions table exists
+[2025-10-25 16:34:33] ✓ Expired old sessions
+[2025-10-25 16:34:33] ✓ Device claimed by: Bryan Mamuyac (ID: 16)
+[2025-10-25 16:34:33] ✓ Data validated - pH:8.13 TDS:691.05 EC:1323.79 Turb:0.16 Temp:15.78
+[2025-10-25 16:34:33] ✓✓✓ SUCCESS - Record ID: 167 assigned to Bryan Mamuyac (ID: 16)
+[2025-10-25 16:34:33] ---
+[2025-10-25 16:35:03] === NEW UPLOAD REQUEST ===
+[2025-10-25 16:35:03] Method: POST
+[2025-10-25 16:35:03] Raw JSON: {"ph_level":8.13,"tds_value":691.05,"ec_value":1323.79,"turbidity":0.16,"temperature":15.78}
+[2025-10-25 16:35:03] ✓ JSON validation passed
+[2025-10-25 16:35:03] ✓ Database config loaded
+[2025-10-25 16:35:03] ✓ Database connected
+[2025-10-25 16:35:03] ✓ Device ID: 1
+[2025-10-25 16:35:03] ✓ device_sessions table exists
+[2025-10-25 16:35:03] ✓ Expired old sessions
+[2025-10-25 16:35:03] ✓ Device claimed by: Bryan Mamuyac (ID: 16)
+[2025-10-25 16:35:03] ✓ Data validated - pH:8.13 TDS:691.05 EC:1323.79 Turb:0.16 Temp:15.78
+[2025-10-25 16:35:03] ✓✓✓ SUCCESS - Record ID: 168 assigned to Bryan Mamuyac (ID: 16)
+[2025-10-25 16:35:03] ---
+[2025-10-25 16:36:51] === NEW UPLOAD REQUEST ===
+[2025-10-25 16:36:51] Method: POST
+[2025-10-25 16:36:51] Raw JSON: {"ph_level":8.13,"tds_value":691.05,"ec_value":1323.79,"turbidity":0.16,"temperature":15.78}
+[2025-10-25 16:36:51] ✓ JSON validation passed
+[2025-10-25 16:36:51] ✓ Database config loaded
+[2025-10-25 16:36:51] ✓ Database connected
+[2025-10-25 16:36:51] ✓ Device ID: 1
+[2025-10-25 16:36:51] ✓ device_sessions table exists
+[2025-10-25 16:36:51] ✓ Expired old sessions
+[2025-10-25 16:36:51] ✓ Device claimed by: Bryan Mamuyac (ID: 16)
+[2025-10-25 16:36:51] ✓ Data validated - pH:8.13 TDS:691.05 EC:1323.79 Turb:0.16 Temp:15.78
+[2025-10-25 16:36:51] ✓✓✓ SUCCESS - Record ID: 169 assigned to Bryan Mamuyac (ID: 16)
+[2025-10-25 16:36:51] ---
+[2025-10-25 16:37:20] === NEW UPLOAD REQUEST ===
+[2025-10-25 16:37:20] Method: POST
+[2025-10-25 16:37:20] Raw JSON: {"ph_level":8.13,"tds_value":691.05,"ec_value":1323.79,"turbidity":0.16,"temperature":15.78}
+[2025-10-25 16:37:20] ✓ JSON validation passed
+[2025-10-25 16:37:50] === NEW UPLOAD REQUEST ===
+[2025-10-25 16:37:50] Method: POST
+[2025-10-25 16:37:50] Raw JSON: {"ph_level":8.12,"tds_value":694.30,"ec_value":1330.00,"turbidity":0.15,"temperature":15.78}
+[2025-10-25 16:37:50] ✓ JSON validation passed
+[2025-10-25 17:44:45] === NEW UPLOAD REQUEST ===
+[2025-10-25 17:44:45] Method: POST
+[2025-10-25 17:44:45] Raw JSON: {"ph_level":5.69,"tds_value":694.30,"ec_value":1382.87,"turbidity":0.15,"temperature":14.22}
+[2025-10-25 17:44:45] ✓ JSON validation passed
+[2025-10-25 17:44:45] ✓ Database config loaded
+[2025-10-25 17:44:45] ✓ Database connected
+[2025-10-25 17:44:45] ✓ Device ID: 1
+[2025-10-25 17:44:45] ✓ device_sessions table exists
+[2025-10-25 17:44:45] ✓ Expired old sessions
+[2025-10-25 17:44:45] ✓ Device claimed by: Bryan Mamuyac (ID: 16)
+[2025-10-25 17:44:45] ✓ Data validated - pH:5.69 TDS:694.3 EC:1382.87 Turb:0.15 Temp:14.22
+[2025-10-25 17:44:45] ✓✓✓ SUCCESS - Record ID: 170 assigned to Bryan Mamuyac (ID: 16)
+[2025-10-25 17:44:45] ---
+[2025-10-25 17:45:14] === NEW UPLOAD REQUEST ===
+[2025-10-25 17:45:14] Method: POST
+[2025-10-25 17:45:14] Raw JSON: {"ph_level":5.86,"tds_value":694.30,"ec_value":1370.73,"turbidity":0.15,"temperature":14.57}
+[2025-10-25 17:45:14] ✓ JSON validation passed
+[2025-10-25 17:45:14] ✓ Database config loaded
+[2025-10-25 17:45:14] ✓ Database connected
+[2025-10-25 17:45:14] ✓ Device ID: 1
+[2025-10-25 17:45:14] ✓ device_sessions table exists
+[2025-10-25 17:45:14] ✓ Expired old sessions
+[2025-10-25 17:45:14] ✓ Device claimed by: Bryan Mamuyac (ID: 16)
+[2025-10-25 17:45:14] ✓ Data validated - pH:5.86 TDS:694.3 EC:1370.73 Turb:0.15 Temp:14.57
+[2025-10-25 17:45:14] ✓✓✓ SUCCESS - Record ID: 171 assigned to Bryan Mamuyac (ID: 16)
+[2025-10-25 17:45:14] ---
+[2025-10-25 17:45:44] === NEW UPLOAD REQUEST ===
+[2025-10-25 17:45:44] Method: POST
+[2025-10-25 17:45:44] Raw JSON: {"ph_level":5.53,"tds_value":694.30,"ec_value":1352.95,"turbidity":0.15,"temperature":15.09}
+[2025-10-25 17:45:44] ✓ JSON validation passed
+[2025-10-25 17:45:44] ✓ Database config loaded
+[2025-10-25 17:45:44] ✓ Database connected
+[2025-10-25 17:45:44] ✓ Device ID: 1
+[2025-10-25 17:45:44] ✓ device_sessions table exists
+[2025-10-25 17:45:44] ✓ Expired old sessions
+[2025-10-25 17:45:44] → No device claim found, using default account (ID: 16)
+[2025-10-25 17:45:44] ✓ Using default user: Bryan Mamuyac (ID: 16)
+[2025-10-25 17:45:44] ✓ Data validated - pH:5.53 TDS:694.3 EC:1352.95 Turb:0.15 Temp:15.09
+[2025-10-25 17:45:44] ✓✓✓ SUCCESS - Record ID: 172 assigned to Bryan Mamuyac (ID: 16)
+[2025-10-25 17:45:44] ---
+[2025-10-26 01:22:26] === NEW UPLOAD REQUEST ===
+[2025-10-26 01:22:26] Method: POST
+[2025-10-26 01:22:26] Raw JSON: {"ph_level":0.00,"tds_value":445.62,"ec_value":842.93,"turbidity":0.16,"temperature":16.30}
+[2025-10-26 01:22:26] ✓ JSON validation passed
+[2025-10-26 01:22:26] ✓ Database config loaded
+[2025-10-26 01:22:26] ✓ Database connected
+[2025-10-26 01:22:26] ✓ Device ID: 1
+[2025-10-26 01:22:26] ✓ device_sessions table exists
+[2025-10-26 01:22:26] ✓ Expired old sessions
+[2025-10-26 01:22:26] ✓ Device claimed by: Angel Laurence Gatchalian (ID: 27)
+[2025-10-26 01:22:26] ✓ Data validated - pH:0 TDS:445.62 EC:842.93 Turb:0.16 Temp:16.3
+[2025-10-26 01:22:26] ✓✓✓ SUCCESS - Record ID: 173 assigned to Angel Laurence Gatchalian (ID: 27)
+[2025-10-26 01:22:26] ---
+[2025-10-26 01:22:55] === NEW UPLOAD REQUEST ===
+[2025-10-26 01:22:55] Method: POST
+[2025-10-26 01:22:55] Raw JSON: {"ph_level":0.00,"tds_value":425.29,"ec_value":796.17,"turbidity":32.53,"temperature":16.73}
+[2025-10-26 01:22:55] ✓ JSON validation passed
+[2025-10-26 01:22:55] ✓ Database config loaded
+[2025-10-26 01:22:55] ✓ Database connected
+[2025-10-26 01:22:55] ✓ Device ID: 1
+[2025-10-26 01:22:55] ✓ device_sessions table exists
+[2025-10-26 01:22:55] ✓ Expired old sessions
+[2025-10-26 01:22:55] ✓ Device claimed by: Angel Laurence Gatchalian (ID: 27)
+[2025-10-26 01:22:55] ✓ Data validated - pH:0 TDS:425.29 EC:796.17 Turb:32.53 Temp:16.73
+[2025-10-26 01:22:55] ✓✓✓ SUCCESS - Record ID: 174 assigned to Angel Laurence Gatchalian (ID: 27)
+[2025-10-26 01:22:55] ---
+[2025-10-26 01:23:25] === NEW UPLOAD REQUEST ===
+[2025-10-26 01:23:25] Method: POST
+[2025-10-26 01:23:25] Raw JSON: {"ph_level":0.00,"tds_value":425.29,"ec_value":796.17,"turbidity":32.53,"temperature":16.73}
+[2025-10-26 01:23:25] ✓ JSON validation passed
+[2025-10-26 01:23:25] ✓ Database config loaded
+[2025-10-26 01:23:25] ✓ Database connected
+[2025-10-26 01:23:25] ✓ Device ID: 1
+[2025-10-26 01:23:25] ✓ device_sessions table exists
+[2025-10-26 01:23:25] ✓ Expired old sessions
+[2025-10-26 01:23:25] ✓ Device claimed by: Angel Laurence Gatchalian (ID: 27)
+[2025-10-26 01:23:25] ✓ Data validated - pH:0 TDS:425.29 EC:796.17 Turb:32.53 Temp:16.73
+[2025-10-26 01:23:25] ✓✓✓ SUCCESS - Record ID: 175 assigned to Angel Laurence Gatchalian (ID: 27)
+[2025-10-26 01:23:25] ---
+[2025-10-26 01:23:56] === NEW UPLOAD REQUEST ===
+[2025-10-26 01:23:56] Method: POST
+[2025-10-26 01:23:56] Raw JSON: {"ph_level":0.00,"tds_value":425.29,"ec_value":794.52,"turbidity":32.53,"temperature":16.82}
+[2025-10-26 01:23:56] ✓ JSON validation passed
+[2025-10-26 01:23:56] ✓ Database config loaded
+[2025-10-26 01:23:56] ✓ Database connected
+[2025-10-26 01:23:56] ✓ Device ID: 1
+[2025-10-26 01:23:56] ✓ device_sessions table exists
+[2025-10-26 01:23:56] ✓ Expired old sessions
+[2025-10-26 01:23:56] ✓ Device claimed by: Angel Laurence Gatchalian (ID: 27)
+[2025-10-26 01:23:56] ✓ Data validated - pH:0 TDS:425.29 EC:794.52 Turb:32.53 Temp:16.82
+[2025-10-26 01:23:56] ✓✓✓ SUCCESS - Record ID: 176 assigned to Angel Laurence Gatchalian (ID: 27)
+[2025-10-26 01:23:56] ---
+[2025-10-26 01:24:26] === NEW UPLOAD REQUEST ===
+[2025-10-26 01:24:26] Method: POST
+[2025-10-26 01:24:26] Raw JSON: {"ph_level":0.00,"tds_value":427.93,"ec_value":799.46,"turbidity":32.79,"temperature":16.82}
+[2025-10-26 01:24:26] ✓ JSON validation passed
+[2025-10-26 01:24:26] ✓ Database config loaded
+[2025-10-26 01:24:26] ✓ Database connected
+[2025-10-26 01:24:26] ✓ Device ID: 1
+[2025-10-26 01:24:26] ✓ device_sessions table exists
+[2025-10-26 01:24:26] ✓ Expired old sessions
+[2025-10-26 01:24:26] → No device claim found, using default account (ID: 16)
+[2025-10-26 01:24:26] ✓ Using default user: Bryan Mamuyac (ID: 16)
+[2025-10-26 01:24:26] ✓ Data validated - pH:0 TDS:427.93 EC:799.46 Turb:32.79 Temp:16.82
+[2025-10-26 01:24:26] ✓✓✓ SUCCESS - Record ID: 177 assigned to Bryan Mamuyac (ID: 16)
+[2025-10-26 01:24:26] ---
+[2025-10-26 01:31:39] === NEW UPLOAD REQUEST ===
+[2025-10-26 01:31:39] Method: POST
+[2025-10-26 01:31:39] Raw JSON: {"ph_level":0.00,"tds_value":446.46,"ec_value":791.69,"turbidity":34.65,"temperature":19.06}
+[2025-10-26 01:31:39] ✓ JSON validation passed
+[2025-10-26 01:31:39] ✓ Database config loaded
+[2025-10-26 01:31:39] ✓ Database connected
+[2025-10-26 01:31:39] ✓ Device ID: 1
+[2025-10-26 01:31:39] ✓ device_sessions table exists
+[2025-10-26 01:31:39] ✓ Expired old sessions
+[2025-10-26 01:31:39] ✓ Device claimed by: Bryan Mamuyac (ID: 16)
+[2025-10-26 01:31:39] ✓ Data validated - pH:0 TDS:446.46 EC:791.69 Turb:34.65 Temp:19.06
+[2025-10-26 01:31:39] ✓✓✓ SUCCESS - Record ID: 178 assigned to Bryan Mamuyac (ID: 16)
+[2025-10-26 01:31:39] ---
+[2025-10-26 01:32:08] === NEW UPLOAD REQUEST ===
+[2025-10-26 01:32:08] Method: POST
+[2025-10-26 01:32:08] Raw JSON: {"ph_level":0.00,"tds_value":448.28,"ec_value":645.55,"turbidity":0.16,"temperature":29.25}
+[2025-10-26 01:32:08] ✓ JSON validation passed
+[2025-10-26 01:32:08] ✓ Database config loaded
+[2025-10-26 01:32:08] ✓ Database connected
+[2025-10-26 01:32:08] ✓ Device ID: 1
+[2025-10-26 01:32:08] ✓ device_sessions table exists
+[2025-10-26 01:32:08] ✓ Expired old sessions
+[2025-10-26 01:32:08] ✓ Device claimed by: Bryan Mamuyac (ID: 16)
+[2025-10-26 01:32:08] ✓ Data validated - pH:0 TDS:448.28 EC:645.55 Turb:0.16 Temp:29.25
+[2025-10-26 01:32:08] ✓✓✓ SUCCESS - Record ID: 179 assigned to Bryan Mamuyac (ID: 16)
+[2025-10-26 01:32:08] ---
+[2025-10-26 01:32:38] === NEW UPLOAD REQUEST ===
+[2025-10-26 01:32:38] Method: POST
+[2025-10-26 01:32:38] Raw JSON: {"ph_level":0.00,"tds_value":442.96,"ec_value":611.80,"turbidity":0.16,"temperature":31.56}
+[2025-10-26 01:32:38] ✓ JSON validation passed
+[2025-10-26 01:32:38] ✓ Database config loaded
+[2025-10-26 01:32:38] ✓ Database connected
+[2025-10-26 01:32:38] ✓ Device ID: 1
+[2025-10-26 01:32:38] ✓ device_sessions table exists
+[2025-10-26 01:32:38] ✓ Expired old sessions
+[2025-10-26 01:32:38] ✓ Device claimed by: Bryan Mamuyac (ID: 16)
+[2025-10-26 01:32:38] ✓ Data validated - pH:0 TDS:442.96 EC:611.8 Turb:0.16 Temp:31.56
+[2025-10-26 01:32:38] ✓✓✓ SUCCESS - Record ID: 180 assigned to Bryan Mamuyac (ID: 16)
+[2025-10-26 01:32:38] ---
+[2025-10-26 01:37:01] === NEW UPLOAD REQUEST ===
+[2025-10-26 01:37:01] Method: POST
+[2025-10-26 01:37:01] Raw JSON: {"ph_level":0.00,"tds_value":416.42,"ec_value":790.99,"turbidity":0.16,"temperature":16.13}
+[2025-10-26 01:37:01] ✓ JSON validation passed
+[2025-10-26 01:37:01] ✓ Database config loaded
+[2025-10-26 01:37:01] ✓ Database connected
+[2025-10-26 01:37:01] ✓ Device ID: 1
+[2025-10-26 01:37:01] ✓ device_sessions table exists
+[2025-10-26 01:37:01] ✓ Expired old sessions
+[2025-10-26 01:37:01] ✓ Device claimed by: Queenie Leanne (ID: 20)
+[2025-10-26 01:37:01] ✓ Data validated - pH:0 TDS:416.42 EC:790.99 Turb:0.16 Temp:16.13
+[2025-10-26 01:37:01] ✓✓✓ SUCCESS - Record ID: 181 assigned to Queenie Leanne (ID: 20)
+[2025-10-26 01:37:01] ---
+[2025-10-26 01:37:30] === NEW UPLOAD REQUEST ===
+[2025-10-26 01:37:30] Method: POST
+[2025-10-26 01:37:30] Raw JSON: {"ph_level":0.00,"tds_value":418.10,"ec_value":794.18,"turbidity":0.15,"temperature":16.13}
+[2025-10-26 01:37:30] ✓ JSON validation passed
+[2025-10-26 01:38:01] === NEW UPLOAD REQUEST ===
+[2025-10-26 01:38:01] Method: POST
+[2025-10-26 01:38:01] Raw JSON: {"ph_level":0.00,"tds_value":418.10,"ec_value":794.18,"turbidity":0.15,"temperature":16.13}
+[2025-10-26 01:38:01] ✓ JSON validation passed
+[2025-10-26 01:38:31] === NEW UPLOAD REQUEST ===
+[2025-10-26 01:38:31] Method: POST
+[2025-10-26 01:38:31] Raw JSON: {"ph_level":0.00,"tds_value":418.10,"ec_value":794.18,"turbidity":0.15,"temperature":16.13}
+[2025-10-26 01:38:31] ✓ JSON validation passed
+[2025-10-26 01:39:01] === NEW UPLOAD REQUEST ===
+[2025-10-26 01:39:01] Method: POST
+[2025-10-26 01:39:01] Raw JSON: {"ph_level":0.00,"tds_value":418.10,"ec_value":794.18,"turbidity":0.15,"temperature":16.13}
+[2025-10-26 01:39:01] ✓ JSON validation passed
+[2025-10-26 03:19:47] === NEW UPLOAD REQUEST ===
+[2025-10-26 03:19:47] Method: POST
+[2025-10-26 03:19:47] Raw JSON: {"ph_level":0.00,"tds_value":414.74,"ec_value":817.02,"turbidity":31.47,"temperature":14.66}
+[2025-10-26 03:19:47] ✓ JSON validation passed
+[2025-10-26 03:19:47] ✓ Database config loaded
+[2025-10-26 03:19:47] ✓ Database connected
+[2025-10-26 03:19:47] ✓ Device ID: 1
+[2025-10-26 03:19:47] ✓ device_sessions table exists
+[2025-10-26 03:19:47] ✓ Expired old sessions
+[2025-10-26 03:19:47] ✓ Device claimed by: Bryan Mamuyac (ID: 16)
+[2025-10-26 03:19:47] ✓ Data validated - pH:0 TDS:414.74 EC:817.02 Turb:31.47 Temp:14.66
+[2025-10-26 03:19:47] ✓✓✓ SUCCESS - Record ID: 182 assigned to Bryan Mamuyac (ID: 16)
+[2025-10-26 03:19:47] ---
+[2025-10-26 03:20:18] === NEW UPLOAD REQUEST ===
+[2025-10-26 03:20:18] Method: POST
+[2025-10-26 03:20:18] Raw JSON: {"ph_level":0.00,"tds_value":413.77,"ec_value":806.30,"turbidity":31.38,"temperature":15.09}
+[2025-10-26 03:20:18] ✓ JSON validation passed
+[2025-10-26 03:20:18] ✓ Database config loaded
+[2025-10-26 03:20:18] ✓ Database connected
+[2025-10-26 03:20:18] ✓ Device ID: 1
+[2025-10-26 03:20:18] ✓ device_sessions table exists
+[2025-10-26 03:20:18] ✓ Expired old sessions
+[2025-10-26 03:20:18] ✓ Device claimed by: Mary Jane Peran (ID: 17)
+[2025-10-26 03:20:18] ✓ Data validated - pH:0 TDS:413.77 EC:806.3 Turb:31.38 Temp:15.09
+[2025-10-26 03:20:18] ✓✓✓ SUCCESS - Record ID: 183 assigned to Mary Jane Peran (ID: 17)
+[2025-10-26 03:20:18] ---
+[2025-10-26 03:20:47] === NEW UPLOAD REQUEST ===
+[2025-10-26 03:20:47] Method: POST
+[2025-10-26 03:20:47] Raw JSON: {"ph_level":0.00,"tds_value":416.42,"ec_value":806.23,"turbidity":31.64,"temperature":15.35}
+[2025-10-26 03:20:47] ✓ JSON validation passed
+[2025-10-26 03:20:47] ✓ Database config loaded
+[2025-10-26 03:20:47] ✓ Database connected
+[2025-10-26 03:20:47] ✓ Device ID: 1
+[2025-10-26 03:20:47] ✓ device_sessions table exists
+[2025-10-26 03:20:47] ✓ Expired old sessions
+[2025-10-26 03:20:47] ✓ Device claimed by: Mary Jane Peran (ID: 17)
+[2025-10-26 03:20:47] ✓ Data validated - pH:0 TDS:416.42 EC:806.23 Turb:31.64 Temp:15.35
+[2025-10-26 03:20:47] ✓✓✓ SUCCESS - Record ID: 184 assigned to Mary Jane Peran (ID: 17)
+[2025-10-26 03:20:47] ---
+[2025-10-26 03:21:17] === NEW UPLOAD REQUEST ===
+[2025-10-26 03:21:17] Method: POST
+[2025-10-26 03:21:17] Raw JSON: {"ph_level":0.00,"tds_value":414.74,"ec_value":799.56,"turbidity":31.47,"temperature":15.52}
+[2025-10-26 03:21:17] ✓ JSON validation passed
+[2025-10-26 03:21:17] ✓ Database config loaded
+[2025-10-26 03:21:17] ✓ Database connected
+[2025-10-26 03:21:17] ✓ Device ID: 1
+[2025-10-26 03:21:17] ✓ device_sessions table exists
+[2025-10-26 03:21:17] ✓ Expired old sessions
+[2025-10-26 03:21:17] → No device claim found, using default account (ID: 16)
+[2025-10-26 03:21:17] ✓ Using default user: Bryan Mamuyac (ID: 16)
+[2025-10-26 03:21:17] ✓ Data validated - pH:0 TDS:414.74 EC:799.56 Turb:31.47 Temp:15.52
+[2025-10-26 03:21:17] ✓✓✓ SUCCESS - Record ID: 185 assigned to Bryan Mamuyac (ID: 16)
+[2025-10-26 03:21:17] ---
+[2025-10-26 03:21:50] === NEW UPLOAD REQUEST ===
+[2025-10-26 03:21:50] Method: POST
+[2025-10-26 03:21:50] Raw JSON: {"ph_level":0.00,"tds_value":416.42,"ec_value":799.38,"turbidity":31.64,"temperature":15.70}
+[2025-10-26 03:21:50] ✓ JSON validation passed
+[2025-10-26 03:21:50] ✓ Database config loaded
+[2025-10-26 03:21:50] ✓ Database connected
+[2025-10-26 03:21:50] ✓ Device ID: 1
+[2025-10-26 03:21:50] ✓ device_sessions table exists
+[2025-10-26 03:21:50] ✓ Expired old sessions
+[2025-10-26 03:21:50] ✓ Device claimed by: Bryan Mamuyac (ID: 16)
+[2025-10-26 03:21:50] ✓ Data validated - pH:0 TDS:416.42 EC:799.38 Turb:31.64 Temp:15.7
+[2025-10-26 03:21:50] ✓✓✓ SUCCESS - Record ID: 186 assigned to Bryan Mamuyac (ID: 16)
+[2025-10-26 03:21:50] ---
+[2025-10-26 03:22:19] === NEW UPLOAD REQUEST ===
+[2025-10-26 03:22:19] Method: POST
+[2025-10-26 03:22:19] Raw JSON: {"ph_level":0.00,"tds_value":416.42,"ec_value":797.69,"turbidity":31.64,"temperature":15.78}
+[2025-10-26 03:22:19] ✓ JSON validation passed
+[2025-10-26 03:22:19] ✓ Database config loaded
+[2025-10-26 03:22:19] ✓ Database connected
+[2025-10-26 03:22:19] ✓ Device ID: 1
+[2025-10-26 03:22:19] ✓ device_sessions table exists
+[2025-10-26 03:22:19] ✓ Expired old sessions
+[2025-10-26 03:22:19] ✓ Device claimed by: Bryan Mamuyac (ID: 16)
+[2025-10-26 03:22:19] ✓ Data validated - pH:0 TDS:416.42 EC:797.69 Turb:31.64 Temp:15.78
+[2025-10-26 03:22:19] ✓✓✓ SUCCESS - Record ID: 187 assigned to Bryan Mamuyac (ID: 16)
+[2025-10-26 03:22:19] ---
+[2025-10-26 03:22:49] === NEW UPLOAD REQUEST ===
+[2025-10-26 03:22:49] Method: POST
+[2025-10-26 03:22:49] Raw JSON: {"ph_level":0.00,"tds_value":416.42,"ec_value":794.33,"turbidity":31.64,"temperature":15.96}
+[2025-10-26 03:22:49] ✓ JSON validation passed
+[2025-10-26 03:22:49] ✓ Database config loaded
+[2025-10-26 03:22:49] ✓ Database connected
+[2025-10-26 03:22:49] ✓ Device ID: 1
+[2025-10-26 03:22:49] ✓ device_sessions table exists
+[2025-10-26 03:22:49] ✓ Expired old sessions
+[2025-10-26 03:22:49] ✓ Device claimed by: Bryan Mamuyac (ID: 16)
+[2025-10-26 03:22:49] ✓ Data validated - pH:0 TDS:416.42 EC:794.33 Turb:31.64 Temp:15.96
+[2025-10-26 03:22:49] ✓✓✓ SUCCESS - Record ID: 188 assigned to Bryan Mamuyac (ID: 16)
+[2025-10-26 03:22:49] ---
+[2025-10-26 03:23:19] === NEW UPLOAD REQUEST ===
+[2025-10-26 03:23:19] Method: POST
+[2025-10-26 03:23:19] Raw JSON: {"ph_level":0.00,"tds_value":416.42,"ec_value":792.66,"turbidity":31.64,"temperature":16.04}
+[2025-10-26 03:23:19] ✓ JSON validation passed
+[2025-10-26 03:23:19] ✓ Database config loaded
+[2025-10-26 03:23:19] ✓ Database connected
+[2025-10-26 03:23:19] ✓ Device ID: 1
+[2025-10-26 03:23:19] ✓ device_sessions table exists
+[2025-10-26 03:23:19] ✓ Expired old sessions
+[2025-10-26 03:23:19] ✓ Device claimed by: Bryan Mamuyac (ID: 16)
+[2025-10-26 03:23:19] ✓ Data validated - pH:0 TDS:416.42 EC:792.66 Turb:31.64 Temp:16.04
+[2025-10-26 03:23:19] ✓✓✓ SUCCESS - Record ID: 189 assigned to Bryan Mamuyac (ID: 16)
+[2025-10-26 03:23:19] ---
+[2025-10-26 03:23:49] === NEW UPLOAD REQUEST ===
+[2025-10-26 03:23:49] Method: POST
+[2025-10-26 03:23:49] Raw JSON: {"ph_level":0.00,"tds_value":416.42,"ec_value":790.99,"turbidity":31.64,"temperature":16.13}
+[2025-10-26 03:23:49] ✓ JSON validation passed
+[2025-10-26 03:23:49] ✓ Database config loaded
+[2025-10-26 03:23:49] ✓ Database connected
+[2025-10-26 03:23:49] ✓ Device ID: 1
+[2025-10-26 03:23:49] ✓ device_sessions table exists
+[2025-10-26 03:23:49] ✓ Expired old sessions
+[2025-10-26 03:23:49] ✓ Device claimed by: Bryan Mamuyac (ID: 16)
+[2025-10-26 03:23:49] ✓ Data validated - pH:0 TDS:416.42 EC:790.99 Turb:31.64 Temp:16.13
+[2025-10-26 03:23:49] ✓✓✓ SUCCESS - Record ID: 190 assigned to Bryan Mamuyac (ID: 16)
+[2025-10-26 03:23:49] ---
+[2025-10-26 03:24:23] === NEW UPLOAD REQUEST ===
+[2025-10-26 03:24:23] Method: POST
+[2025-10-26 03:24:23] Raw JSON: {"ph_level":0.00,"tds_value":416.42,"ec_value":789.34,"turbidity":31.64,"temperature":16.22}
+[2025-10-26 03:24:23] ✓ JSON validation passed
+[2025-10-26 03:24:23] ✓ Database config loaded
+[2025-10-26 03:24:23] ✓ Database connected
+[2025-10-26 03:24:23] ✓ Device ID: 1
+[2025-10-26 03:24:23] ✓ device_sessions table exists
+[2025-10-26 03:24:23] ✓ Expired old sessions
+[2025-10-26 03:24:23] ✓ Device claimed by: Mary Jane Peran (ID: 17)
+[2025-10-26 03:24:23] ✓ Data validated - pH:0 TDS:416.42 EC:789.34 Turb:31.64 Temp:16.22
+[2025-10-26 03:24:23] ✓✓✓ SUCCESS - Record ID: 191 assigned to Mary Jane Peran (ID: 17)
+[2025-10-26 03:24:23] ---
